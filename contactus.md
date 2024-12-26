@@ -4,4 +4,7 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+- **Twitter**: [On Hold]  
+- **Mailing List**: [On Hold]  
+
+For any inquiries, please contact us at **[On Hold]**.

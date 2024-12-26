@@ -7,16 +7,20 @@ title: Home
 layout: home
 ---
 
-Hi there! Here's the lazy grad student's template for workshop webpages. I put this together to help automate mundane tasks with conventional workshop webpages - curating lists of speakers and/or organizers, schedules, and submitted/accepted papers. Here's a completely unrelated picture adapted from "Machine Learning & Artificial Intelligence" by `mikemacmarketing`; licensed under CC BY 2.0:
+### The 1st Workshop on Large Model Infrastructure and Supply Chain Governance **(LMISC)**
+<!-- <p style="text-align: center;"><font size="5"><a href="https://eccv2024.ecva.net/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
+</font></p>
+<p style="text-align: center;"><font size="5">September 30th, 2024</font></p> -->
 
-![](assets/img/banner.jpg)
+---
 
-The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
-1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
-2. **Organizers**: Curate an organizer list from a set of markdown files, one per organizer. See files in the `_organizers` directory for examples.
-3. **Schedule**: Curate a [schedule like this](schedule) from a set of markdown files, one per event (talk, panel, break, etc.). See files in the `_schedule` directory for examples. Schedule items are sorted by a `sequence_id` attribute.
-4. **Papers**: Curate a [list of papers like this](papers) from a bunch of markdown files, one per paper. See files in the `_papers` directory for examples. Papers are sorted by a `sequence_id` attribute if specifed (else they are listed alphabetically).
+Welcome to the **1st Workshop on Large Model Infrastructure and Supply Chain Governance (LMISC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in building and managing the infrastructure and supply chains necessary for large-scale AI models. Large language models (LLMs) and other AI systems are transforming industries, but their complexity raises critical questions about **security, governance, and sustainability**. LMISC aims to address these questions by fostering collaboration, sharing insights, and promoting responsible practices to navigate this rapidly evolving field.
 
-> **NOTE:** The best way to use these is to turn feature on or off by editing the `collections` attribute in `_config.yml`.
+![Workshop Structure](assets/img/structure.svg){: style="width: 75%; height: auto; display: block; margin: 0 auto;" }
 
-If you experience issues or have cool features to add, feel free to [fork this template]().
+The workshop aims to:
+
+- **Discuss infrastructure challenges** in training and deploying large AI models, including resource management, scalability, and reliability.
+- **Explore governance frameworks** to ensure transparency, ethical compliance, and accountability in LM supply chains.
+- **Share best practices and lessons learned** from diverse industries and organizations deploying large-scale AI solutions.
+- **Foster collaboration** between academia, industry, and regulators to address shared challenges and align on best practices for governance.

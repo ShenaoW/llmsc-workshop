@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class = "post-content">
+	  <table style="border-collapse: collapse; border: none;">
+	  	{% for pc in site.pcs %}
+		    <tr style="border: none;">
+		        <td style="border: none;">
+		            <div class="col-xs-6">
+		                <p align="center">
+		                	{% if pc.img %}
+		                    	<img class="people-pic" src="{{ pc.img | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% else %}
+		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% endif %}
+		                </p>
+		            </div>
+		        </td>
+		        <td style="border: none;">
+		            <div class="people-name text-center">
+		            	<!-- pc name (link to webpage if provided) -->
+		            	{% if pc.webpage %}
+		            		<b><a href="{{ pc.webpage }}" target="_blank">{{ pc.name }}</a></b>
+		            	{% else %}
+		            		<b>{{ pc.name }}</b>
+		            	{% endif %}
+		                <br>
+		                <!-- pc affiliation (if provided) -->
+		                {% if pc.affil_link %}
+		                	<a href="{{ pc.affil_link }}" target="_blank">{{ pc.affil }}</a>
+		                {% else %}
+		                	{{ pc.affil }}
+		                {% endif %}
+		                <!-- Additional pc affiliation (if provided) -->
+		                {% if pc.affil2_link %}
+		                	<br>
+		                	<a href="{{ pc.affil2_link }}" target="_blank">{{ pc.affil2 }}</a>
+		                {% elsif pc.affil2 %}
+		                	<br>
+		                	{{ pc.affil2 }}
+		                {% endif %}
+		            </div>
+		        </td>
+		        <td style="border: none;">
+		        	<div class="people-name text-center">
+		        		{{ pc.content }}
+		        	</div>
+		        </td>
+		    </tr>
+	    {% endfor %}
+	  </table>
+  </div>
+
+</article>
