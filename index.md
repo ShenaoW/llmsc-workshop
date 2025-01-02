@@ -15,11 +15,11 @@ layout: home
 
 #### 📅 **Workshop Details**
 
-- **Date**: [Insert Date]
-- **Location**: [Insert Location or "Virtual Event" if online]
-- **Co-located with**: [Insert Event Name] 
-- **Twitter**: [Insert URL]  
-- **Contact**: [Insert Email Address]
+- **Date**: [On Hold]
+- **Location**: Trondheim, Norway
+- **Co-located with**: ISSTA 2025
+- **Twitter**: [On Hold]  
+- **Contact**: [On Hold]
 
 ---
 
@@ -71,7 +71,7 @@ We welcome the following two types of submissions:
 **Requirements**:
 
 - **All submissions must be original and not under review elsewhere.**
-- Submissions must conform to the **[ISSTA Format and Submission Guidelines]()**.
+- Submissions must conform to the **[ISSTA Format and Submission Guidelines](https://conf.researchr.org/track/issta-2025/issta-2025-papers#submission-guidelines)**.
 - Papers must be submitted via the **[submission site]()** by **XXX, 2025 (AoE)**.
 - The **official publication date** is the date the proceedings are made available in the **ACM Digital Library**. This date may be up to two weeks prior to the first day of the ISSTA conference. The official publication date affects the **deadline for any patent filings** related to published work.
 
