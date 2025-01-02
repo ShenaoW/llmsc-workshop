@@ -7,7 +7,7 @@ title: Home
 layout: home
 ---
 
-## **The 1st Workshop on Large Large Model Supply Chain Analysis (LLMSC)**
+## **The 1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**
 <!-- <p style="text-align: center;"><font size="5"><a href="https://eccv2024.ecva.net/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
 </font></p>
 <p style="text-align: center;"><font size="5">September 30th, 2024</font></p> -->
@@ -23,9 +23,9 @@ layout: home
 
 ---
 
-Welcome to the **1st Workshop on Large Large Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in building and managing the infrastructure and supply chains necessary for large-scale AI models. Large language models (LLMs) and other AI systems are transforming industries, but their complexity raises critical questions about **security, governance, and sustainability**. LLMSC aims to address these questions by fostering collaboration, sharing insights, and promoting responsible practices to navigate this rapidly evolving field.
+Welcome to the **1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in building and managing the infrastructure and supply chains necessary for large-scale AI models. Large language models (LLMs) and other AI systems are transforming industries, but their complexity raises critical questions about **security, governance, and sustainability**. LLMSC aims to address these questions by fostering collaboration, sharing insights, and promoting responsible practices to navigate this rapidly evolving field.
 
-![Workshop Structure](assets/img/structure.svg){: style="width: 75%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](assets/img/structure.png){: style="width: 75%; height: auto; display: block; margin: 0 auto;" }
 
 The workshop aims to:
 
