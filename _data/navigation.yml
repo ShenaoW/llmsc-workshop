@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Call for Papers"
+    url: "/#call-for-papers"
+  - title: "Organization"
+    url: "/#organization"
+  - title: "Program Committee"
+    url: "/#pc"
+  - title: "Sponsor"
+    url: "/#sponsor"
+  - title: "Contact"
+    url: "/#contact"

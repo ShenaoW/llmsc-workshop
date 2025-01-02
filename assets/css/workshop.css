@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth; /* 启用 CSS 原生平滑滚动 */
+}
+
 div.speaker {
   margin: 2em 0;
 }
