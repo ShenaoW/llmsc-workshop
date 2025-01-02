@@ -17,7 +17,7 @@ layout: home
 
 - **Date**: [On Hold]
 - **Location**: Trondheim, Norway
-- **Co-located with**: ISSTA 2025
+- **Co-located with**: [ISSTA 2025](https://conf.researchr.org/home/issta-2025)
 - **Twitter**: [On Hold]  
 - **Contact**: [On Hold]
 
