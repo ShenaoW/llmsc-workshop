@@ -4,6 +4,6 @@ webpage: https://howiepku.github.io/
 affil: Huazhong University of Science and Technology
 affil_link: 
 img: haoyuwang.jpg
-role: General Chair
+role: 
 sequence_id: 1
 ---
