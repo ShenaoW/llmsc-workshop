@@ -91,7 +91,7 @@ We welcome the following two types of submissions:
 
 #### 👥 **Organizing Committee**
 
-{% include organizer_display.html %}
+{% include organizer_display_parallel.html %}
 
 ---
 
