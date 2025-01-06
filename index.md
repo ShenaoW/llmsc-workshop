@@ -23,15 +23,15 @@ layout: home
 
 ---
 
-Welcome to the **1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in building and managing the infrastructure and supply chains necessary for large-scale AI models. Large language models (LLMs) and other AI systems are transforming industries, but their complexity raises critical questions about **security, governance, and sustainability**. LLMSC aims to address these questions by fostering collaboration, sharing insights, and promoting responsible practices to navigate this rapidly evolving field.
+Welcome to the **1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in building and managing the infrastructure and supply chains necessary for LLMs. LLMs and other AI systems are transforming industries, but their complexity raises critical questions about **security, governance, and sustainability**. LLMSC aims to address these questions by fostering collaboration, sharing insights, and promoting responsible practices to navigate this rapidly evolving field.
 
 ![Workshop Structure](assets/img/structure.png){: style="width: 75%; height: auto; display: block; margin: 0 auto;" }
 
 The workshop aims to:
 
-- **Discuss infrastructure challenges** in training and deploying large AI models, including resource management, scalability, and reliability.
-- **Explore governance frameworks** to ensure transparency, ethical compliance, and accountability in LM supply chains.
-- **Share best practices and lessons learned** from diverse industries and organizations deploying large-scale AI solutions.
+- **Discuss infrastructure challenges** in training and deploying LLMs, including resource management, scalability, and reliability.
+- **Explore governance frameworks** to ensure transparency, ethical compliance, and accountability in LLM supply chains.
+- **Share best practices and lessons learned** from diverse industries and organizations deploying LLM solutions.
 - **Foster collaboration** between academia, industry, and regulators to address shared challenges and align on best practices for governance.
 
 ---
@@ -42,25 +42,25 @@ The workshop aims to:
 
 We invite submissions on topics including but not limited to:
 
-- **LM Supply Chain Ecosystem Modeling**
-  - Modeling and analysis of open-source model or LM toolchain ecosystemsn
+- **LLM Supply Chain Ecosystem Modeling**
+  - Modeling and analysis of open-source model or LLM toolchain ecosystems
   - Ecosystem evolution analysis over time
 
-- **Best SE Practice for LM Toolchain**
-  - Horizontal comparison of large model development tools
-  - Developer-centric perspectives on large model toolchains
-  - Bug detection and repair for large model development tools
-  - Best practices for developing LM-integrated applications
+- **Best SE Practice for LLM Toolchain**
+  - Horizontal comparison of LLM development tools
+  - Developer-centric perspectives on LLM toolchains
+  - Bug detection and repair for LLM development tools
+  - Best practices for developing LLM-integrated applications
 
-- **Governance of Model Supply Chain Ecosystems**
+- **Governance of LLM Supply Chain Ecosystems**
   - Model provenance and license compliance
-  - Standardization in LM supply chain ecosystems
+  - Standardization in LLM supply chain ecosystems
 
 - **Security Analysis of Supply Chain Ecosystems**
   - Vulnerability management in emerging toolchains
   - Threat analysis in LLM-integrated applications
-  - Case studies and real-world experiences with LM infrastructure
-  - New security paradigms for LM systems
+  - Case studies and real-world experiences with LLM infrastructure
+  - New security paradigms for LLM systems
 
 **Submission Guidelines**:
 
