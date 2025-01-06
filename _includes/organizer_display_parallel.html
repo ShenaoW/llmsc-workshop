@@ -4,7 +4,7 @@
         <table style="border-collapse: collapse; border: none;">
             {% assign sorted_organizers = site.organizers | sort: "sequence_id" %}
             {% for organizer in sorted_organizers %}
-              <td style="border: none;">
+                <td style="border: none; vertical-align: top;">
                   <div class="col-xs-12">
                       <p align="center">
                           {% if organizer.img %}
