@@ -25,7 +25,7 @@ layout: home
 
 Welcome to the **1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
 
-Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, software engineering, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the **LLM Supply Chain** — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
+Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the **LLM Supply Chain** — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
 
 ![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
