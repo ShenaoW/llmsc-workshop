@@ -18,8 +18,8 @@ layout: home
 - **Date**: June 25, 2025
 - **Location**: Trondheim, Norway
 - **Co-located with**: [ISSTA 2025](https://conf.researchr.org/home/issta-2025)
-- **Twitter**: [On Hold]  
-- **Contact**: [On Hold]
+<!-- - **Twitter**: [On Hold]   -->
+- **Contact**: [llmscworkshop@gmail.com](mailto:llmscworkshop@gmail.com)
 
 ---
 
@@ -119,9 +119,6 @@ Under Invitation
 
 #### 🌐 **Stay Connected**
 
-- **Twitter**: [On Hold]  
-- **Mailing List**: [On Hold]  
-
-For any inquiries, please contact us at **[On Hold]**.
+For any inquiries, please contact us at **[llmscworkshop@gmail.com](mailto:llmscworkshop@gmail.com)**.
 
 ---
