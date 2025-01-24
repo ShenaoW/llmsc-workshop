@@ -17,16 +17,16 @@ layout: home
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px; max-height: 100%;">
+<div class="container">
   <!-- 左侧 About 第一段内容 -->
-  <div style="flex: 2;">
+  <div class="text-content">
     <h4><strong>About</strong></h4>
     <p>Welcome to the <strong>1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.</p>
     <p>Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.</p>
   </div>
 
   <!-- 右侧 Twitter 卡片 -->
-  <div style="flex: 1; max-height: 400px; overflow: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #f9f9f9;">
+  <div class="twitter-card">
     <blockquote class="twitter-tweet">
       <p lang="en" dir="ltr">📢Announcing the 1nd workshop on <a href="https://twitter.com/hashtag/LLMSC?src=hash&amp;ref_src=twsrc%5Etfw">#LLMSC</a>, co-located with <a href="https://twitter.com/issta_conf?ref_src=twsrc%5Etfw">@issta_conf</a>
         <br>2025 in Trondheim, Norway 🇳🇴
