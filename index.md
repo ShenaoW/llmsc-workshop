@@ -7,25 +7,34 @@ title: Home
 layout: home
 ---
 
-## **The 1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**
-<!-- <p style="text-align: center;"><font size="5"><a href="https://eccv2024.ecva.net/">The 18th European Conference on Computer Vision 2024 in Milan, Italy</a>
-</font></p>
-<p style="text-align: center;"><font size="5">September 30th, 2024</font></p> -->
----
-
-#### 📅 **Workshop Details**
-
-- **Date**: June 25, 2025
-- **Location**: Trondheim, Norway
-- **Co-located with**: [ISSTA 2025](https://conf.researchr.org/home/issta-2025)
-<!-- - **Twitter**: [On Hold]   -->
-- **Contact**: [llmscworkshop@gmail.com](mailto:llmscworkshop@gmail.com)
+<p style="text-align: center;"><font size="7"><strong>The 1<sup>st</sup> Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong></font></p>
+<p style="text-align: center;"><font size="5">June 25, 2025, Trondheim, Norway, Co-located with <a href="https://conf.researchr.org/home/issta-2025" target="_blank">ISSTA'25</a></font></p>
 
 ---
 
-Welcome to the **1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)**! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
+<div style="display: flex; align-items: flex-start; gap: 20px; max-height: 100%;">
+  <!-- 左侧 About 第一段内容 -->
+  <div style="flex: 2;">
+    <h4><strong>About</strong></h4>
+    <p>Welcome to the <strong>1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.</p>
+    <p>Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.</p>
+  </div>
 
-Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the **LLM Supply Chain** — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
+  <!-- 右侧 Twitter 卡片 -->
+  <div style="flex: 1; max-height: 400px; overflow: auto; border: 1px solid #ddd; border-radius: 8px; padding: 10px; background: #f9f9f9;">
+    <blockquote class="twitter-tweet">
+      <p lang="en" dir="ltr">📢Announcing the 1nd workshop on <a href="https://twitter.com/hashtag/LLMSC?src=hash&amp;ref_src=twsrc%5Etfw">#LLMSC</a>, co-located with <a href="https://twitter.com/issta_conf?ref_src=twsrc%5Etfw">@issta_conf</a>
+        <br>2025 in Trondheim, Norway 🇳🇴
+        <br>
+        <br>⭐️ Website: <a href="https://t.co/7Ke4dLAYgd">https://t.co/7Ke4dLAYgd</a>
+        <br>⭐️ Deadline: March 31, 2025
+        <br>⭐️ CFP: <a href="https://t.co/7b53mBJWav">https://t.co/7b53mBJWav</a></p>&mdash; LLMSC (@llmscworkshop) <a href="https://twitter.com/llmscworkshop/status/1882800084720726372?ref_src=twsrc%5Etfw">January 24, 2025</a>
+    </blockquote>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+
+<br>
 
 ![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
@@ -119,6 +128,7 @@ Under Invitation
 
 #### 🌐 **Stay Connected**
 
-For any inquiries, please contact us at **[llmscworkshop@gmail.com](mailto:llmscworkshop@gmail.com)**.
+- **Twitter**: [LLMSC](https://x.com/llmscworkshop)
+- **Email**: [llmscworkshop@gmail.com]()
 
 ---
