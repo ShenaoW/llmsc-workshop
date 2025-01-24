@@ -102,3 +102,37 @@ span.award-other img {
   position: relative;
   top: -70px; /* 这里的值取决于 headbar 的高度 */
 }
+
+
+.workshop-title {
+  text-align: center;
+  font-size: 6vw; /* 使用视口宽度的单位 */
+  font-weight: bold;
+}
+
+.workshop-subtitle {
+  text-align: center;
+  font-size: 4vw; /* 同样使用视口宽度 */
+}
+
+/* 为较小屏幕设置限制 */
+@media (max-width: 600px) {
+  .workshop-title {
+    font-size: 8vw; /* 更小的屏幕字体稍微调大 */
+  }
+
+  .workshop-subtitle {
+    font-size: 5vw;
+  }
+}
+
+/* 为较大屏幕设置限制 */
+@media (min-width: 1200px) {
+  .workshop-title {
+    font-size: 48px; /* 为大屏幕设置固定最大字体大小 */
+  }
+
+  .workshop-subtitle {
+    font-size: 24px;
+  }
+}

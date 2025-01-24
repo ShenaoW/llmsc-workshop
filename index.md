@@ -7,8 +7,13 @@ title: Home
 layout: home
 ---
 
-<p style="text-align: center;"><font size="7"><strong>The 1<sup>st</sup> Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong></font></p>
-<p style="text-align: center;"><font size="5">June 25, 2025, Trondheim, Norway, Co-located with <a href="https://conf.researchr.org/home/issta-2025" target="_blank">ISSTA'25</a></font></p>
+<p class="workshop-title">
+  The 1<sup>st</sup> Workshop on Large Language Model Supply Chain Analysis (LLMSC)
+</p>
+<p class="workshop-subtitle">
+  June 25, 2025, Trondheim, Norway, Co-located with 
+  <a href="https://conf.researchr.org/home/issta-2025" target="_blank">ISSTA'25</a>
+</p>
 
 ---
 
