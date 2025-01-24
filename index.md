@@ -39,8 +39,6 @@ layout: home
   </div>
 </div>
 
-<br>
-
 ![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
 The motivation of this workshop is to provide a platform for researchers, practitioners, and policymakers to discuss and share their ideas on understanding, optimizing, and securing the LLM Supply Chain. This workshop aims to achieve several goals:
