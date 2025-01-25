@@ -11,8 +11,8 @@ layout: home
   The 1<sup>st</sup> Workshop on Large Language Model Supply Chain Analysis (LLMSC)
 </p>
 <p class="workshop-subtitle">
-  June 25, 2025, Trondheim, Norway, Co-located with 
-  <a href="https://conf.researchr.org/home/issta-2025" target="_blank">ISSTA'25</a>
+  June 25-28, 2025, Trondheim, Norway, Co-located with 
+  <a href="https://conf.researchr.org/home/issta-2025" target="_blank"><strong>ISSTA'25</strong></a>
 </p>
 
 ---
@@ -84,10 +84,13 @@ We welcome the following two types of submissions:
 
 **Requirements**:
 
-- **All submissions must be original and not under review elsewhere.**
-- Submissions must conform to the **[ISSTA Format and Submission Guidelines](https://conf.researchr.org/track/issta-2025/issta-2025-papers#submission-guidelines)**.
-- Papers must be submitted via the **[submission site]()** by **March 31, 2025 (AoE)**.
-- The **official publication date** is the date the proceedings are made available in the **ACM Digital Library**. This date may be up to two weeks prior to the first day of the ISSTA conference. The official publication date affects the **deadline for any patent filings** related to published work.
+- **Originality:** All submissions must be original and not under review elsewhere.
+- **Submission Format:** All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers. The ACM styles have changed recently, and all authors should use the official “ACM Primary Article Template”, as can be obtained from the **[ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)** page. For Microsoft Word users, please still use the “Interim Template” and not the New Workflow for ACM Publications. This should result in a **two-columns format**. For LaTeX users, please refer to the `sample-sigconf.tex` example file in the template available on the ACM Proceedings Template page. To that end, the following LaTeX code can be placed at the start of the LaTeX document:
+```
+\documentclass[sigconf,screen,review,anonymous]{acmart}
+```
+- **Submission Site:** Papers must be submitted via the **[submission site]()** by **March 31, 2025 (AoE)**.
+- **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
 
 **Review Process**:
 - Submissions will be **peer-reviewed by at least three members** of the program committee.
@@ -95,9 +98,12 @@ We welcome the following two types of submissions:
 
 **Important Dates**:
 
+All dates are 23:59:59 AoE (UTC-12h):
+
 - **Paper Submission Deadline**: March 31, 2025
 - **Notification of Acceptance**: April 17, 2025
 - **Camera-Ready Papers Due**: April 24, 2025
+- **Workshop Data:** June 25, 2025 (tentative)
 
 ---
 
@@ -131,7 +137,7 @@ Under Invitation
 
 #### 🌐 **Stay Connected**
 
-- **Twitter**: [LLMSC](https://x.com/llmscworkshop)
-- **Email**: [llmscworkshop@gmail.com]()
+- **Twitter**: **[LLMSC](https://x.com/llmscworkshop)**
+- **Email**: **[llmscworkshop@gmail.com]()**
 
 ---
