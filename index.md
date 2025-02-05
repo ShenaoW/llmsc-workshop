@@ -8,7 +8,7 @@ layout: home
 ---
 
 <p class="workshop-title">
-  The 1<sup>st</sup> Workshop on Large Language Model Supply Chain Analysis (LLMSC)
+  The 1<sup>st</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2025)
 </p>
 <p class="workshop-subtitle">
   June 25-28, 2025, Trondheim, Norway, Co-located with 
@@ -21,21 +21,13 @@ layout: home
   <!-- 左侧 About 第一段内容 -->
   <div class="text-content">
     <h4><strong>About</strong></h4>
-    <p>Welcome to the <strong>1st Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.</p>
+    <p>Welcome to the <strong>1st International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.</p>
     <p>Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.</p>
   </div>
 
   <!-- 右侧 Twitter 卡片 -->
   <div class="twitter-card">
-    <blockquote class="twitter-tweet">
-      <p lang="en" dir="ltr">📢Announcing the 1nd workshop on <a href="https://twitter.com/hashtag/LLMSC?src=hash&amp;ref_src=twsrc%5Etfw">#LLMSC</a>, co-located with <a href="https://twitter.com/issta_conf?ref_src=twsrc%5Etfw">@issta_conf</a>
-        <br>2025 in Trondheim, Norway 🇳🇴
-        <br>
-        <br>⭐️ Website: <a href="https://t.co/7Ke4dLAYgd">https://t.co/7Ke4dLAYgd</a>
-        <br>⭐️ Deadline: March 31, 2025
-        <br>⭐️ CFP: <a href="https://t.co/7b53mBJWav">https://t.co/7b53mBJWav</a></p>&mdash; LLMSC (@llmscworkshop) <a href="https://twitter.com/llmscworkshop/status/1882800084720726372?ref_src=twsrc%5Etfw">January 24, 2025</a>
-    </blockquote>
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢Announcing the 1st workshop on <a href="https://twitter.com/hashtag/LLMSC?src=hash&amp;ref_src=twsrc%5Etfw">#LLMSC</a>, co-located with <a href="https://twitter.com/issta_conf?ref_src=twsrc%5Etfw">@issta_conf</a> 2025 in Trondheim, Norway 🇳🇴<br>⭐️ Website: <a href="https://t.co/7Ke4dLAYgd">https://t.co/7Ke4dLAYgd</a><br>⭐️ Deadline: March 31, 2025 <br>⭐️CFP: <a href="https://t.co/7b53mBJWav">https://t.co/7b53mBJWav</a></p>&mdash; LLMSC (@llmscworkshop) <a href="https://twitter.com/llmscworkshop/status/1887093269181726953?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </div>
 </div>
 
