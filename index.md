@@ -101,9 +101,15 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 <span class='anchor' id='organization'></span>
 
-#### 👥 **Organizing Committee**
+#### 👥 **Organization**
+
+**Organizing Committee**
 
 {% include organizer_display_parallel.html %}
+
+**Publicity & Web Chair**
+
+[**Shenao Wang**](https://shenaow.github.io/), Huazhong University of Science and Technology
 
 ---
 
