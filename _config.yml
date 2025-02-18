@@ -50,7 +50,7 @@ header_pages:
 
 # A two-line attribution (remove this if you have to, but we'd appreciate if you leave this as is)
 attribution: >
-  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template <a href="https://github.com/krrish94/sniffle-workshop">Sniffle</a>.
+  Based on a <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> template <a href="https://github.com/krrish94/sniffle-workshop" target="_blank">Sniffle</a>.
 
 # Displays a "last updated" date in the footer if set to "true"
 last_updated: true

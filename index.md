@@ -40,6 +40,13 @@ The motivation of this workshop is to provide a platform for researchers, practi
 - **Promote responsible practices** to enhance sustainability, transparency, resilience, and security across the LLMSC ecosystem.
 - **Foster collaboration** to bridge gaps between academia, industry, and policy to address the complexities of the LLMSC.
 
+Here are some valuable resources for understanding the Large Language Model Supply Chain, its composition, risks, and security considerations:
+
+- [**Awesome-LLM-Supply-Chain-Security**](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
+- [**Large Language Model Supply Chain: A Research Agenda**](https://arxiv.org/abs/2404.12736)
+- [**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**](https://arxiv.org/abs/2410.21218)
+- [**Large Language Model Supply Chain: Open Problems From the Security Perspective**](https://arxiv.org/abs/2411.01604)
+
 ---
 
 <span class='anchor' id='call-for-papers'></span>
@@ -81,7 +88,7 @@ We welcome the following two types of submissions:
 ```
 \documentclass[sigconf,screen,review,anonymous]{acmart}
 ```
-- **Submission Site:** Papers must be submitted via the **[submission site]()** by **March 31, 2025 (AoE)**.
+- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc25.hotcrp.com)** by **March 31, 2025 (AoE)**.
 - **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
 
 **Review Process**:
