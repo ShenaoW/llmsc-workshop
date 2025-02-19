@@ -46,6 +46,7 @@ Here are some valuable resources for understanding the Large Language Model Supp
 - [**Large Language Model Supply Chain: A Research Agenda**](https://arxiv.org/abs/2404.12736)
 - [**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**](https://arxiv.org/abs/2410.21218)
 - [**Large Language Model Supply Chain: Open Problems From the Security Perspective**](https://arxiv.org/abs/2411.01604)
+- [**SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**](https://arxiv.org/pdf/2502.12497)
 
 ---
 
