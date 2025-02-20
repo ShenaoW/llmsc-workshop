@@ -1,48 +1,50 @@
 <article class="post">
-  <div class="post-content" id="org">
-      <table style="border-collapse: collapse; border: none; width: 100%;">
-          <tr>
-              {% for pc in site.pcs %}
-                  <td style="border: none; vertical-align: top; padding: 10px; text-align: center;">
-                      <div class="col-xs-12">
-                          <p align="center">
-                              <!-- Display the image -->
-                              {% if pc.img %}
-                                  <img class="people-pic" src="{{ pc.img | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
-                              {% else %}
-                                  <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
-                              {% endif %}
+    <div class="post-content">
+        <table style="border-collapse: collapse; border: none;">
+            {% for pc in site.pcs %}
+              {% assign remainder = forloop.index | modulo: 3 %}
+              {% if remainder == 1 %}
+                  <tr style="border: none;">
+              {% endif %}
+              <td style="border: none;">
+                  <div class="col-xs-12">
+                      <p align="center">
+                          <!-- Display the image -->
+                          {% if pc.img %}
+                              <img class="people-pic" src="{{ pc.img | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
+                          {% else %}
+                              <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
+                          {% endif %}
+                          <br>
+                          <!-- PC name (link to webpage if provided) -->
+                          {% if pc.webpage %}
+                              <a href="{{ pc.webpage }}" target="_blank"><b>{{ pc.name }}</b></a>
+                          {% else %}
+                              <b>{{ pc.name }}</b>
+                          {% endif %}
+                          <br>
+                          <!-- PC affiliation (if provided) -->
+                          {% if pc.affil_link %}
+                              <a href="{{ pc.affil_link }}" target="_blank">{{ pc.affil }}</a>
+                          {% else %}
+                              {{ pc.affil }}
+                          {% endif %}
+                          <!-- Additional PC affiliation (if provided) -->
+                          {% if pc.affil2_link %}
                               <br>
-                              <!-- PC name (link to webpage if provided) -->
-                              {% if pc.webpage %}
-                                  <a href="{{ pc.webpage }}" target="_blank"><b>{{ pc.name }}</b></a>
-                              {% else %}
-                                  <b>{{ pc.name }}</b>
-                              {% endif %}
+                              <a href="{{ pc.affil2_link }}" target="_blank">{{ pc.affil2 }}</a>
+                          {% elsif pc.affil2 %}
                               <br>
-                              <!-- PC affiliation (if provided) -->
-                              {% if pc.affil_link %}
-                                  <a href="{{ pc.affil_link }}" target="_blank">{{ pc.affil }}</a>
-                              {% else %}
-                                  {{ pc.affil }}
-                              {% endif %}
-                              <!-- Additional PC affiliation (if provided) -->
-                              {% if pc.affil2_link %}
-                                  <br>
-                                  <a href="{{ pc.affil2_link }}" target="_blank">{{ pc.affil2 }}</a>
-                              {% elsif pc.affil2 %}
-                                  <br>
-                                  {{ pc.affil2 }}
-                              {% endif %}
-                          </p>
-                      </div>
-                  </td>
-                  <!-- Add a new row every 4 items (adjust as needed) -->
-                  {% if forloop.index0 != 0 and forloop.index0 % 4 == 3 %}
-                      </tr><tr>
-                  {% endif %}
-              {% endfor %}
-          </tr>
-      </table>
-  </div>
-</article>
+                              {{ pc.affil2 }}
+                          {% endif %}
+                      </p>
+                  </div>
+              </td>
+              {% if forloop.last or remainder == 0 %}
+                  </tr>
+              {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+  </article>
+  
