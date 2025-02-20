@@ -129,15 +129,15 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 ---
 
-<span class='anchor' id='sponsor'></span>
+<!-- <span class='anchor' id='sponsor'></span>
 
 #### 💡 **Sponsors and Partners**
 
 Under Invitation
 
-<!-- {% include sponsor_display.html %} -->
+{% include sponsor_display.html %}
 
----
+--- -->
 
 <span class='anchor' id='contact'></span>
 
