@@ -3,6 +3,6 @@ name: Yuan Yao
 webpage: https://cs.nju.edu.cn/yuanyao/
 affil: Nanjing University
 affil_link: 
-img: yuanyao.png
+img: yuanyao.jpg
 sequence_id: 
 ---
