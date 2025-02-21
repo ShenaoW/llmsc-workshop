@@ -123,9 +123,19 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 <span class='anchor' id='pc'></span>
 
-#### 👩‍💻👨‍💻 **Program Committee (PC)**
+#### 👩‍💻👨‍💻 **Program Committee**
 
-{% include pc_display.html %}
+- [**Cheng Huang**](https://www.chenghuang.org/), Sichuan University
+- [**Jiawei Wang**](https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en), National University of Singapore
+- [**Jiongchi Yu**](https://ttfish.cc/), Singapore Management University
+- [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
+- [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
+- [**Qiang Hu**](https://wellido.github.io/), Tianjin University
+- [**Wenbo Shen**](https://wenboshen.org/), Zhejiang University
+- [**Xin Liu**](https://bird.vin/), Lanzhou University
+- [**Yonghui Liu**](https://dannygooo.github.io/), Monash University
+- [**Yuan Yao**](https://cs.nju.edu.cn/yuanyao/), Nanjing University
+- [**Zizhuang Deng**](https://zizhuang.netlify.app/), Shandong University
 
 ---
 
