@@ -129,6 +129,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Jiawei Wang**](https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en), National University of Singapore
 - [**Jiongchi Yu**](https://ttfish.cc/), Singapore Management University
 - [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
+- [**Mengfan Xu**](https://mengfanxu1997.github.io/), University of Massachusetts Amherst
 - [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
 - [**Qiang Hu**](https://wellido.github.io/), Tianjin University
 - [**Wenbo Shen**](https://wenboshen.org/), Zhejiang University
