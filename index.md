@@ -125,6 +125,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 #### 👩‍💻👨‍💻 **Program Committee**
 
+- [**Agathe Balayn**](https://agathe-balayn.github.io/), Microsoft Research
 - [**Cheng Huang**](https://www.chenghuang.org/), Sichuan University
 - [**Jiawei Wang**](https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en), National University of Singapore
 - [**Jiongchi Yu**](https://ttfish.cc/), Singapore Management University
