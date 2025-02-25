@@ -134,6 +134,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Mengfan Xu**](https://mengfanxu1997.github.io/), University of Massachusetts Amherst
 - [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
 - [**Qiang Hu**](https://wellido.github.io/), Tianjin University
+- [**Weipeng Jiang**](https://lenijwp.github.io/), Xi'an Jiaotong University
 - [**Wenbo Shen**](https://wenboshen.org/), Zhejiang University
 - [**Xin Liu**](https://bird.vin/), Lanzhou University
 - [**Yonghui Liu**](https://dannygooo.github.io/), Monash University
