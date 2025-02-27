@@ -142,8 +142,6 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Yuan Yao**](https://cs.nju.edu.cn/yuanyao/), Nanjing University
 - [**Zizhuang Deng**](https://zizhuang.netlify.app/), Shandong University
 
-<!-- {% include pc_display.html %} -->
-
 <!-- ---
 
 <span class='anchor' id='sponsor'></span>
