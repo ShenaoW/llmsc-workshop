@@ -100,7 +100,7 @@ We welcome the following two types of submissions:
 
 All dates are 23:59:59 AoE (UTC-12h):
 
-- **Paper Submission Deadline**: March 31, 2025
+- **Paper Submission Deadline**: April 06, 2025
 - **Notification of Acceptance**: April 17, 2025
 - **Camera-Ready Papers Due**: April 24, 2025
 - **Workshop Data:** June 25, 2025 (tentative)
