@@ -117,7 +117,10 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 **Publicity & Web Chair**
 
-[**Shenao Wang**](https://shenaow.github.io/), Huazhong University of Science and Technology
+- [**Shenao Wang**](https://shenaow.github.io/), Huazhong University of Science and Technology
+
+- [**Xinyi Hou**](https://xinyi-hou.github.io/), Huazhong University of Science and Technology
+
 
 ---
 
