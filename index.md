@@ -11,7 +11,7 @@ layout: home
   The 1<sup>st</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2025)
 </p>
 <p class="workshop-subtitle">
-  June 25-28, 2025, Trondheim, Norway, Co-located with 
+  June 28, 2025, Trondheim, Norway, Co-located with 
   <a href="https://conf.researchr.org/home/issta-2025" target="_blank"><strong>ISSTA'25</strong></a>
 </p>
 
@@ -89,7 +89,7 @@ We welcome the following two types of submissions:
 ```
 \documentclass[sigconf,screen,review,anonymous]{acmart}
 ```
-- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc25.hotcrp.com)** by **March 31, 2025 (AoE)**.
+- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc25.hotcrp.com)** by **April 06, 2025 (AoE)**.
 - **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
 
 **Review Process**:
@@ -103,7 +103,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 - **Paper Submission Deadline**: April 06, 2025
 - **Notification of Acceptance**: April 17, 2025
 - **Camera-Ready Papers Due**: April 24, 2025
-- **Workshop Data:** June 25, 2025 (tentative)
+- **Workshop Data:** June 28, 2025
 
 ---
 
