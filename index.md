@@ -50,6 +50,89 @@ Here are some valuable resources for understanding the Large Language Model Supp
 
 ---
 
+<span class='anchor' id='program'></span>
+
+#### 🗓️ **Tentative Program**
+
+**Saturday, June 28, 2025**  
+**Local Time (Norway, GMT +02:00)**  
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th style="width: 18%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Time (GMT +02:00)</th>
+      <th style="width: 20%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Author</th>
+      <th style="width: 62%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">09:00-09:15</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Opening</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">09:15-09:30</td>
+      <td style="text-align: left;">Kaifeng Huang</td>
+      <td style="text-align: left;">Keynote (Title Pending)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">09:30-09:45</td>
+      <td style="text-align: left;">Qiang Hu</td>
+      <td style="text-align: left;">Large Language Model Supply Chain: Open Problems From the Security Perspective</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">09:45-10:00</td>
+      <td style="text-align: left;">Yiling He</td>
+      <td style="text-align: left;">On Benchmarking Code LLMs for Android Malware Analysis</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10:00-10:15</td>
+      <td style="text-align: left;">Junyi Yu</td>
+      <td style="text-align: left;">A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10:15-10:30</td>
+      <td style="text-align: left;">Shengming Zhao</td>
+      <td style="text-align: left;">Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">10:30-11:00</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Coffee Break</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">11:00-11:15</td>
+      <td style="text-align: left;">Shenao Wang</td>
+      <td style="text-align: left;">Invited Talk (Title Pending)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">11:15-11:30</td>
+      <td style="text-align: left;">Tong Liu</td>
+      <td style="text-align: left;">Invited Talk (Title Pending)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">11:45-12:00</td>
+      <td style="text-align: left;">Wenxin Jiang</td>
+      <td style="text-align: left;">Invited Talk (Title Pending)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">12:00-12:15</td>
+      <td style="text-align: left;">Mahmoud Jahanshahi</td>
+      <td style="text-align: left;">Hidden Vulnerabilities and Licensing Risks in LLM Pre-Training Datasets</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">12:15-12:30</td>
+      <td style="text-align: left;">Agathe Balayn</td>
+      <td style="text-align: left;">Invited Talk (Title Pending)</td>
+    </tr>
+    <tr>
+      <td style="text-align: center;">12:30-14:00</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Lunch Break</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <span class='anchor' id='call-for-papers'></span>
 
 #### 📢 **Call for Papers**
@@ -144,16 +227,6 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Yonghui Liu**](https://dannygooo.github.io/), Monash University
 - [**Yuan Yao**](https://cs.nju.edu.cn/yuanyao/), Nanjing University
 - [**Zizhuang Deng**](https://zizhuang.netlify.app/), Shandong University
-
-<!-- ---
-
-<span class='anchor' id='sponsor'></span>
-
-#### 💡 **Sponsors and Partners**
-
-{% include sponsor_display.html %} -->
-
----
 
 <span class='anchor' id='contact'></span>
 

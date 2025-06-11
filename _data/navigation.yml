@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: "/"
+  - title: "Program"
+    url: "/#program"
   - title: "Call for Papers"
     url: "/#call-for-papers"
   - title: "Organization"
