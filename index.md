@@ -107,7 +107,7 @@ Here are some valuable resources for understanding the Large Language Model Supp
     <tr>
       <td style="text-align: center; font-weight: bold;">11:15-11:30</td>
       <td style="text-align: left; font-weight: bold;">Tong Liu <br> (Chinese Academy of Sciences)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
+      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Uncovering Hidden Vulnerabilities and Attack Surfaces in the LLM Supply Chain</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">11:45-12:00</td>
