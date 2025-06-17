@@ -61,8 +61,8 @@ Here are some valuable resources for understanding the Large Language Model Supp
   <thead>
     <tr>
       <th style="width: 18%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Time (GMT +02:00)</th>
-      <th style="width: 20%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Speaker</th>
-      <th style="width: 62%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
+      <th style="width: 29%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Speaker</th>
+      <th style="width: 53%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
     </tr>
   </thead>
   <tbody>
@@ -72,28 +72,28 @@ Here are some valuable resources for understanding the Large Language Model Supp
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">09:15-09:30</td>
-      <td style="text-align: left; font-weight: bold;">Kaifeng Huang</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Keynote: (Title Pending)</td>
+      <td style="text-align: left; font-weight: bold;">Kaifeng Huang <br> (Tongji University)</td>
+      <td style="text-align: left; font-weight: bold; color: blue;">Keynote: Toward Understanding Risks in Large Language Model Supply Chain: A Preliminary and Prospective Analysis</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">09:30-09:45</td>
-      <td style="text-align: left; font-weight: bold;">Qiang Hu</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Paper: Large Language Model Supply Chain: Open Problems From the Security Perspective</td>
+      <td style="text-align: left; font-weight: bold;">Qiang Hu <br> (Tianjin University)</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Large Language Model Supply Chain: Open Problems From the Security Perspective</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">09:45-10:00</td>
-      <td style="text-align: left; font-weight: bold;">Yiling He</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Paper: On Benchmarking Code LLMs for Android Malware Analysis</td>
+      <td style="text-align: left; font-weight: bold;">Yiling He <br> (University College London)</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: On Benchmarking Code LLMs for Android Malware Analysis</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">10:00-10:15</td>
-      <td style="text-align: left; font-weight: bold;">Junyi Yu</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Paper: A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection</td>
+      <td style="text-align: left; font-weight: bold;">Junyi Yu <br> (Tianjin University)</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">10:15-10:30</td>
-      <td style="text-align: left; font-weight: bold;">Shengming Zhao</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Paper: Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
+      <td style="text-align: left; font-weight: bold;">Shengming Zhao <br> (University of Alberta)</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">10:30-11:00</td>
@@ -101,32 +101,32 @@ Here are some valuable resources for understanding the Large Language Model Supp
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">11:00-11:15</td>
-      <td style="text-align: left; font-weight: bold;">Shenao Wang</td>
+      <td style="text-align: left; font-weight: bold;">Shenao Wang (Huazhong University of Science and Technology)</td>
       <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">11:15-11:30</td>
-      <td style="text-align: left; font-weight: bold;">Tong Liu</td>
+      <td style="text-align: left; font-weight: bold;">Tong Liu <br> (Chinese Academy of Sciences)</td>
       <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">11:45-12:00</td>
-      <td style="text-align: left; font-weight: bold;">Wenxin Jiang</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
+      <td style="text-align: left; font-weight: bold;">Wenxin Jiang <br> (Socket)</td>
+      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Trustworthy Reuse in the Model Supply Chain: How Far Are We?</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">12:00-12:15</td>
-      <td style="text-align: left; font-weight: bold;">Mahmoud Jahanshahi</td>
+      <td style="text-align: left; font-weight: bold;">Mahmoud Jahanshahi <br> (University of Tennessee)</td>
       <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Hidden Vulnerabilities and Licensing Risks in LLM Pre-Training Datasets</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">12:15-12:30</td>
-      <td style="text-align: left; font-weight: bold;">Agathe Balayn</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
+      <td style="text-align: left; font-weight: bold;">Agathe Balayn <br> (Microsoft Research)</td>
+      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Unpacking Human-Centered Challenges to Responsible AI in the LLM Supply Chain -A Zoom on Trust Relations</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">12:30-14:00</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Lunch Break</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Lunch</td>
     </tr>
   </tbody>
 </table>
