@@ -102,7 +102,7 @@ Here are some valuable resources for understanding the Large Language Model Supp
     <tr>
       <td style="text-align: center; font-weight: bold;">11:00-11:15</td>
       <td style="text-align: left; font-weight: bold;">Shenao Wang (Huazhong University of Science and Technology)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: (Title Pending)</td>
+      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Understanding Vulnerabilities in the Large Language Model Supply Chain</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">11:15-11:30</td>
