@@ -96,8 +96,8 @@ Here are some valuable resources for understanding the Large Language Model Supp
       <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">10:30-11:15</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Coffee Break</td>
+      <td style="text-align: center; font-weight: bold;">10:30-11:30</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Photoing and Coffee Break</td>
     </tr>
     <!-- <tr>
       <td style="text-align: center; font-weight: bold;">11:00-11:15</td>
@@ -105,7 +105,7 @@ Here are some valuable resources for understanding the Large Language Model Supp
       <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Understanding Vulnerabilities in the Large Language Model Supply Chain</td>
     </tr> -->
     <tr>
-      <td style="text-align: center; font-weight: bold;">11:15-11:30</td>
+      <td style="text-align: center; font-weight: bold;">11:30-11:45</td>
       <td style="text-align: left; font-weight: bold;">Tong Liu <br> (Chinese Academy of Sciences)</td>
       <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Uncovering Hidden Vulnerabilities and Attack Surfaces in the LLM Supply Chain</td>
     </tr>
