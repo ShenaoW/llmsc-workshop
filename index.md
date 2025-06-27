@@ -96,7 +96,7 @@ Here are some valuable resources for understanding the Large Language Model Supp
       <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">10:30-11:00</td>
+      <td style="text-align: center; font-weight: bold;">10:30-11:15</td>
       <td colspan="2" style="text-align: center; font-weight: bold;">Coffee Break</td>
     </tr>
     <!-- <tr>
