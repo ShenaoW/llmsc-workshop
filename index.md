@@ -8,28 +8,21 @@ layout: home
 ---
 
 <p class="workshop-title">
-  The 1<sup>st</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2025)
+  The 2<sup>st</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2026)
 </p>
 <p class="workshop-subtitle">
-  June 28, 2025, Trondheim, Norway, Co-located with 
-  <a href="https://conf.researchr.org/home/issta-2025" target="_blank"><strong>ISSTA'25</strong></a>
+  July 5, 2026, Montreal, Canada, Co-located with 
+  <a href="" target="_blank"><strong>FSE'26</strong></a>
+  (Tentative)
 </p>
 
 ---
 
-<div class="container">
-  <!-- 左侧 About 第一段内容 -->
-  <div class="text-content">
-    <h4><strong>About</strong></h4>
-    <p>Welcome to the <strong>1st International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.</p>
-    <p>Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.</p>
-  </div>
+#### About
 
-  <!-- 右侧 Twitter 卡片 -->
-  <div class="twitter-card">
-    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">📢Announcing the 1st workshop on <a href="https://twitter.com/hashtag/LLMSC?src=hash&amp;ref_src=twsrc%5Etfw">#LLMSC</a>, co-located with <a href="https://twitter.com/issta_conf?ref_src=twsrc%5Etfw">@issta_conf</a> 2025 in Trondheim, Norway 🇳🇴<br>⭐️ Website: <a href="https://t.co/7Ke4dLAYgd">https://t.co/7Ke4dLAYgd</a><br>⭐️ Deadline: March 31, 2025 <br>⭐️CFP: <a href="https://t.co/7b53mBJWav">https://t.co/7b53mBJWav</a></p>&mdash; LLMSC (@llmscworkshop) <a href="https://twitter.com/llmscworkshop/status/1887093269181726953?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
-</div>
+Welcome to the <strong>2st International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
+
+Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
 
 ![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
@@ -41,95 +34,6 @@ The motivation of this workshop is to provide a platform for researchers, practi
 - **Foster collaboration** to bridge gaps between academia, industry, and policy to address the complexities of the LLMSC.
 
 Here are some valuable resources for understanding the Large Language Model Supply Chain, its composition, risks, and security considerations:
-
-- [**Awesome-LLM-Supply-Chain-Security**](https://github.com/ShenaoW/awesome-llm-supply-chain-security)
-- [**Large Language Model Supply Chain: A Research Agenda**](https://arxiv.org/abs/2404.12736)
-- [**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**](https://arxiv.org/abs/2410.21218)
-- [**Large Language Model Supply Chain: Open Problems From the Security Perspective**](https://arxiv.org/abs/2411.01604)
-- [**SoK: Understanding Vulnerabilities in the Large Language Model Supply Chain**](https://arxiv.org/pdf/2502.12497)
-
----
-
-<span class='anchor' id='program'></span>
-
-#### 🗓️ **Tentative Program**
-
-**Saturday, June 28, 2025**  
-**Local Time (Norway, GMT +02:00)**  
-
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr>
-      <th style="width: 18%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Time (GMT +02:00)</th>
-      <th style="width: 29%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Speaker</th>
-      <th style="width: 53%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">09:00-09:15</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Opening</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">09:15-09:30</td>
-      <td style="text-align: left; font-weight: bold;">Kaifeng Huang <br> (Tongji University)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Keynote: Toward Understanding Risks in Large Language Model Supply Chain: A Preliminary and Prospective Analysis</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">09:30-09:45</td>
-      <td style="text-align: left; font-weight: bold;">Qiang Hu <br> (Tianjin University)</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Large Language Model Supply Chain: Open Problems From the Security Perspective</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">09:45-10:00</td>
-      <td style="text-align: left; font-weight: bold;">Yiling He <br> (University College London)</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: On Benchmarking Code LLMs for Android Malware Analysis</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">10:00-10:15</td>
-      <td style="text-align: left; font-weight: bold;">Junyi Yu <br> (Tianjin University)</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">10:15-10:30</td>
-      <td style="text-align: left; font-weight: bold;">Shengming Zhao <br> (University of Alberta)</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Accepted Paper: Best Practice for Supply Chain in LLM-assisted Medical Applications</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">10:30-11:30</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Photoing and Coffee Break</td>
-    </tr>
-    <!-- <tr>
-      <td style="text-align: center; font-weight: bold;">11:00-11:15</td>
-      <td style="text-align: left; font-weight: bold;">Shenao Wang (Huazhong University of Science and Technology)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Understanding Vulnerabilities in the Large Language Model Supply Chain</td>
-    </tr> -->
-    <tr>
-      <td style="text-align: center; font-weight: bold;">11:30-11:45</td>
-      <td style="text-align: left; font-weight: bold;">Tong Liu <br> (Chinese Academy of Sciences)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Uncovering Hidden Vulnerabilities and Attack Surfaces in the LLM Supply Chain</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">11:45-12:00</td>
-      <td style="text-align: left; font-weight: bold;">Wenxin Jiang <br> (Socket)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Trustworthy Reuse in the Model Supply Chain: How Far Are We?</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">12:00-12:15</td>
-      <td style="text-align: left; font-weight: bold;">Mahmoud Jahanshahi <br> (University of Tennessee)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Hidden Vulnerabilities and Licensing Risks in LLM Pre-Training Datasets</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">12:15-12:30</td>
-      <td style="text-align: left; font-weight: bold;">Agathe Balayn <br> (Microsoft Research)</td>
-      <td style="text-align: left; font-weight: bold; color: blue;">Invited Talk: Unpacking Human-Centered Challenges to Responsible AI in the LLM Supply Chain -A Zoom on Trust Relations</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">12:30-14:00</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Lunch</td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
@@ -168,11 +72,12 @@ We welcome the following two types of submissions:
 **Requirements**:
 
 - **Originality:** All submissions must be original and not under review elsewhere.
-- **Submission Format:** All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers. The ACM styles have changed recently, and all authors should use the official “ACM Primary Article Template”, as can be obtained from the **[ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)** page. For Microsoft Word users, please still use the “Interim Template” and not the New Workflow for ACM Publications. This should result in a **two-columns format**. For LaTeX users, please refer to the `sample-sigconf.tex` example file in the template available on the ACM Proceedings Template page. To that end, the following LaTeX code can be placed at the start of the LaTeX document:
+- **Submission Format:** All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers. The ACM styles have changed recently, and all authors should use the official “ACM Primary Article Template”, as can be obtained from the **[ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)** page. For Microsoft Word users, please still use the “Interim Template” and not the New Workflow for ACM Publications. This should result in a **two-columns format**. For LaTeX users, please refer to the `sample-sigconf.tex` example file in the template available on the ACM Proceedings Template page. To that end, each submission requires using the following booktitle:
 ```
 \documentclass[sigconf,screen,review,anonymous]{acmart}
+\acmBooktitle{Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26), June 5--9, 2026, Montreal, Canada}
 ```
-- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc25.hotcrp.com)** by **April 06, 2025 (AoE)**.
+- **Submission Site:** Papers must be submitted via the **[submission site]()** by **February 12th, 2026 (AoE)**.
 - **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
 
 **Review Process**:
@@ -183,10 +88,10 @@ We welcome the following two types of submissions:
 
 All dates are 23:59:59 AoE (UTC-12h):
 
-- **Paper Submission Deadline**: April 06, 2025
-- **Notification of Acceptance**: April 17, 2025
-- **Camera-Ready Papers Due**: April 24, 2025
-- **Workshop Data:** June 28, 2025
+- **Paper Submission Deadline**: February 12th, 2026
+- **Notification of Acceptance**: March 19th, 2026
+- **Camera-Ready Papers Due**: April 2nd, 2026
+- **Workshop Data:** July 5, 2026
 
 ---
 
@@ -211,22 +116,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 #### 👩‍💻👨‍💻 **Program Committee**
 
-- [**Agathe Balayn**](https://agathe-balayn.github.io/), Microsoft Research
-- [**Cheng Huang**](https://www.chenghuang.org/), Sichuan University
-- [**Jiawei Wang**](https://scholar.google.com/citations?user=jxAaupQAAAAJ&hl=en), National University of Singapore
-- [**Jiongchi Yu**](https://ttfish.cc/), Singapore Management University
-- [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
-- [**Lili Quan**](https://liliquan0118.github.io/), Tianjin University
-- [**Mengfan Xu**](https://mengfanxu1997.github.io/), University of Massachusetts Amherst
-- [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
-- [**Qiang Hu**](https://wellido.github.io/), Tianjin University
-- [**Weipeng Jiang**](https://lenijwp.github.io/), Xi'an Jiaotong University
-- [**Wenbo Shen**](https://wenboshen.org/), Zhejiang University
-- [**Xin Liu**](https://bird.vin/), Lanzhou University
-- [**Xin Tan**](https://www.researchgate.net/scientific-contributions/Xin-Tan-2207161889), Huawei Technologies
-- [**Yonghui Liu**](https://dannygooo.github.io/), Monash University
-- [**Yuan Yao**](https://cs.nju.edu.cn/yuanyao/), Nanjing University
-- [**Zizhuang Deng**](https://zizhuang.netlify.app/), Shandong University
+On Hold
 
 <span class='anchor' id='contact'></span>
 
