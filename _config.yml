@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LLMSC
+title: LLMWare
 email: shenaowang@hust.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://llmsc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://llmware-workshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username: llmsc
+github_username: llmware-workshop
 
 # Build settings
 plugins:
