@@ -11,9 +11,9 @@
                       <p align="center">
                           <!-- Display the image -->
                           {% if pc.img %}
-                              <img class="people-pic" src="{{ pc.img | prepend: '/archive/llmsc25/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
+                              <img class="people-pic" src="{{ pc.img | prepend: '/archive/25/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
                           {% else %}
-                              <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/archive/llmsc25/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
+                              <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/archive/25/assets/img/pcs/' | prepend: site.baseurl | prepend: site.url }}" alt="{{ pc.name }}" style="width: 150px; height: auto; border-radius: 50%;">
                           {% endif %}
                           <br>
                           <!-- PC name (link to webpage if provided) -->
