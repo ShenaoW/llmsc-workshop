@@ -79,6 +79,7 @@ We welcome the following two types of submissions:
 ```
 - **Submission Site:** Papers must be submitted via the **[submission site]()** by **February 12th, 2026 (AoE)**.
 - **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
+- **Notification:** AAs a published ACM author, you and your co-authors are subject to all **[ACM Publications Policies](https://www.acm.org/publications/policies/toc)**, including ACM’s new **[Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects)**.
 
 **Review Process**:
 - Submissions will be **peer-reviewed by at least three members** of the program committee.
