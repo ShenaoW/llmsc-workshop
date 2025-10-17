@@ -8,7 +8,7 @@ layout: home
 ---
 
 <p class="workshop-title">
-  The 2<sup>st</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2026)
+  The 2<sup>nd</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2026)
 </p>
 <p class="workshop-subtitle">
   July 5, 2026, Montreal, Canada, Co-located with 
@@ -20,7 +20,7 @@ layout: home
 
 #### About
 
-Welcome to the <strong>2st International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
+Welcome to the <strong>2nd International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
 
 Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
 
