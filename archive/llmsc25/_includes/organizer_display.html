@@ -1,0 +1,67 @@
+<article class="post">
+
+    <div class="post-content" id="org">
+        <table style="border-collapse: collapse; border: none; width: 100%;">
+            {% assign sorted_organizers = site.organizers | sort: "sequence_id" %}
+            {% assign counter = 0 %}
+            <tr>
+            {% for organizer in sorted_organizers %}
+              <td style="border: none; text-align: center; width: 50%;">
+                  <div class="col-xs-12">
+                      <p align="center">
+                          {% if organizer.img %}
+                              <img class="people-pic" src="{{ organizer.img | prepend: '/archive/llmsc25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" style="max-width: 100px; max-height: 100px;">
+                          {% else %}
+                              <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/archive/llmsc25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank" style="max-width: 100px; max-height: 100px;">
+                          {% endif %}
+                          <br>
+                          <!-- organizer name (link to webpage if provided) -->
+                          {% if organizer.webpage %}
+                              <a href="{{ organizer.webpage }}" target="_blank"><b>{{ organizer.name }}</b></a>
+                          {% else %}
+                              <b>{{ organizer.name }}</b>
+                          {% endif %}
+                          <br>
+                          <!-- organizer affiliation (if provided) -->
+                          {% if organizer.affil_link %}
+                              <a href="{{ organizer.affil_link }}" target="_blank">{{ organizer.affil }}</a>
+                          {% else %}
+                              {{ organizer.affil }}
+                          {% endif %}
+                          <!-- Additional organizer affiliation (if provided) -->
+                          {% if organizer.affil2_link %}
+                              <br>
+                              <a href="{{ organizer.affil2_link }}" target="_blank">{{ organizer.affil2 }}</a>
+                          {% elsif organizer.affil2 %}
+                              <br>
+                              {{ organizer.affil2 }}
+                          {% endif %}
+                          <br>
+                          <!-- organizer role (if provided) -->
+                          {% if organizer.role %}
+                              <i>{{ organizer.role }}</i>
+                          {% endif %}
+                      </p>
+                  </div>
+              </td>
+              {% assign counter = counter | plus: 1 %}
+              {% if counter == 2 %}
+                </tr>
+                {% assign counter = 0 %}
+                {% if forloop.last == false %}
+                  <tr>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            {% if counter > 0 %}
+              <!-- Handle the last row with fewer than 2 people -->
+              {% assign remaining_slots = 2 | minus: counter %}
+              {% for i in (1..remaining_slots) %}
+                <td style="border: none; text-align: center; width: 50%;"></td>
+              {% endfor %}
+              </tr>
+            {% endif %}
+        </table>
+    </div>
+
+</article>

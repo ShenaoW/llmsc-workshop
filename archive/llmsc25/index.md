@@ -2,8 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-permalink: /
-title: Home
+permalink: /archive/llmsc25/
+title: LLMSC25
 layout: home
 ---
 
@@ -31,7 +31,7 @@ layout: home
   </div>
 </div>
 
-![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](archive/llmsc25/assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
 The motivation of this workshop is to provide a platform for researchers, practitioners, and policymakers to discuss and share their ideas on understanding, optimizing, and securing the LLM Supply Chain. This workshop aims to achieve several goals:
 
