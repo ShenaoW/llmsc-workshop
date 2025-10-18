@@ -11,9 +11,9 @@
                         <p align="center">
                             <!-- 显示头像 -->
                             {% if organizer.img %}
-                                <img class="people-pic" src="{{ organizer.img | prepend: '/archive/25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                                <img class="people-pic" src="{{ organizer.img | prepend: 'assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
                             {% else %}
-                                <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/archive/25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                                <img class="people-pic" src="{{ 'avatar.jpg' | prepend: 'assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
                             {% endif %}
                             <br>
                             <!-- 显示名字 -->
@@ -35,8 +35,6 @@
                                 <i>{{ organizer.role }}</i>
                             {% endif %}
                             <br>
-                            <!-- 显示年份 -->
-                            <small>Years: {{ organizer.year | join: ", " }}</small>
                         </p>
                     </div>
                 </td>
