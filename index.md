@@ -102,7 +102,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 **Organizing Committee**
 
-{% include organizer_display_parallel.html %}
+{% include organizer_display_26.html %}
 
 **Publicity & Web Chair**
 

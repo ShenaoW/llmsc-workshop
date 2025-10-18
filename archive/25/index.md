@@ -31,7 +31,7 @@ layout: home
   </div>
 </div>
 
-![Workshop Structure](archive/25/assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
 The motivation of this workshop is to provide a platform for researchers, practitioners, and policymakers to discuss and share their ideas on understanding, optimizing, and securing the LLM Supply Chain. This workshop aims to achieve several goals:
 
@@ -196,7 +196,7 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 **Organizing Committee**
 
-{% include organizer_display_parallel.html %}
+{% include organizer_display_25.html %}
 
 **Publicity & Web Chair**
 

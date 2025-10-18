@@ -1,0 +1,47 @@
+<article class="post">
+    <div class="post-content" id="org">
+        <table style="border-collapse: collapse; border: none;">
+            <!-- 遍历所有组织者 -->
+            {% assign sorted_organizers = site.organizers | sort: "sequence_id" %}
+            {% for organizer in sorted_organizers %}
+                <!-- 检查是否包含目标年份 -->
+                {% if organizer.year contains 2025 %}
+                <td style="border: none; vertical-align: top;">
+                    <div class="col-xs-12">
+                        <p align="center">
+                            <!-- 显示头像 -->
+                            {% if organizer.img %}
+                                <img class="people-pic" src="{{ organizer.img | prepend: '/archive/25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                            {% else %}
+                                <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/archive/25/assets/img/organizers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+                            {% endif %}
+                            <br>
+                            <!-- 显示名字 -->
+                            {% if organizer.webpage %}
+                                <a href="{{ organizer.webpage }}" target="_blank"><b>{{ organizer.name }}</b></a>
+                            {% else %}
+                                <b>{{ organizer.name }}</b>
+                            {% endif %}
+                            <br>
+                            <!-- 显示单位 -->
+                            {% if organizer.affil_link %}
+                                <a href="{{ organizer.affil_link }}" target="_blank">{{ organizer.affil }}</a>
+                            {% else %}
+                                {{ organizer.affil }}
+                            {% endif %}
+                            <br>
+                            <!-- 显示角色 -->
+                            {% if organizer.role %}
+                                <i>{{ organizer.role }}</i>
+                            {% endif %}
+                            <br>
+                            <!-- 显示年份 -->
+                            <small>Years: {{ organizer.year | join: ", " }}</small>
+                        </p>
+                    </div>
+                </td>
+                {% endif %}
+            {% endfor %}
+        </table>
+    </div>
+</article>
