@@ -1,16 +1,17 @@
-# main links links
 main:
   - title: "Home"
     url: "/"
-  - title: "Program"
-    url: "/#program"
+  # - title: "Program"
+  #   url: "/#program"
   - title: "Call for Papers"
     url: "/#call-for-papers"
   - title: "Organization"
     url: "/#organization"
   - title: "Program Committee"
     url: "/#pc"
-  # - title: "Sponsor"
-  #   url: "/#sponsor"
+  # - title: "Archives"
+  #   dropdown:
+  #     - title: "2025"
+  #       url: "/archive/2025"
   - title: "Contact"
     url: "/#contact"
