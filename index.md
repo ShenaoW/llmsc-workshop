@@ -43,16 +43,19 @@ Here are some valuable resources for understanding the Large Language Model Supp
 We invite submissions on topics including but not limited to:
 
 - **LLM Supply Chain Ecosystem Modeling**
+
   - Modeling and analysis of open-source model or LLM toolchain ecosystems
   - Ecosystem evolution analysis over time
 
 - **Best SE Practice for LLM Toolchain**
+
   - Horizontal comparison of LLM development tools
   - Developer-centric perspectives on LLM toolchains
   - Bug detection and repair for LLM development tools
   - Best practices for developing LLM-integrated applications
 
 - **Governance of LLM Supply Chain Ecosystems**
+
   - Model provenance and license compliance
   - Standardization in LLM supply chain ecosystems
 
@@ -65,6 +68,7 @@ We invite submissions on topics including but not limited to:
 **Submission Guidelines**:
 
 We welcome the following two types of submissions:
+
 - **Position Papers (1-4 pages including references)**: Well-argued position or work in progress.
 - **Research Papers (4-8 pages including references)**: Technical research, experience reports, empirical studies, etc.
 
@@ -72,15 +76,18 @@ We welcome the following two types of submissions:
 
 - **Originality:** All submissions must be original and not under review elsewhere.
 - **Submission Format:** All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers. The ACM styles have changed recently, and all authors should use the official “ACM Primary Article Template”, as can be obtained from the **[ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)** page. For Microsoft Word users, please still use the “Interim Template” and not the New Workflow for ACM Publications. This should result in a **two-columns format**. For LaTeX users, please refer to the `sample-sigconf.tex` example file in the template available on the ACM Proceedings Template page. To that end, each submission requires using the following booktitle:
+
 ```
 \documentclass[sigconf,screen,review,anonymous]{acmart}
 \acmBooktitle{Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26), June 5--9, 2026, Montreal, Canada}
 ```
-- **Submission Site:** Papers must be submitted via the **[submission site]()** by **February 12th, 2026 (AoE)**.
-- **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the ISSTA conference**. The official publication date affects the **deadline for any patent filings** related to published work.
+
+- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc26.hotcrp.com)** by **February 12th, 2026 (AoE)**.
+- **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the FSE conference**. The official publication date affects the **deadline for any patent filings** related to published work.
 - **Notification:** As a published ACM author, you and your co-authors are subject to all **[ACM Publications Policies](https://www.acm.org/publications/policies/toc)**, including ACM’s new **[Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects)**.
 
 **Review Process**:
+
 - Submissions will be **peer-reviewed by at least three members** of the program committee.
 - Evaluation criteria include **originality, relevance, technical soundness, and clarity of presentation**.
 
@@ -108,7 +115,6 @@ All dates are 23:59:59 AoE (UTC-12h):
 - [**Shenao Wang**](https://shenaow.github.io/), Huazhong University of Science and Technology
 
 - [**Xinyi Hou**](https://xinyi-hou.github.io/), Huazhong University of Science and Technology
-
 
 ---
 
