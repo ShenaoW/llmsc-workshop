@@ -13,7 +13,6 @@ layout: home
 <p class="workshop-subtitle">
   July 5, 2026, Montreal, Canada, Co-located with 
   <a href="" target="_blank"><strong>FSE'26</strong></a>
-  (Tentative)
 </p>
 
 ---
