@@ -122,7 +122,10 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 #### 👩‍💻👨‍💻 **Program Committee**
 
-On Hold
+- [**Chengwei Liu**](https://lcwj3.github.io/), Nanyang Technological University
+- [**Guozhu Meng**](https://impillar.github.io/), Institute of Information Engineering, Chinese Academy of Sciences
+- [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
+- [**Xiaofei Xie**](https://xiaofeixie.bitbucket.io/), Singapore Management University
 
 <span class='anchor' id='contact'></span>
 
