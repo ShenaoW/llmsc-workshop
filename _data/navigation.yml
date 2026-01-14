@@ -11,7 +11,7 @@ main:
     url: '/#pc'
   - title: 'Archives'
     dropdown:
-      - title: 'LLMSC 2025'
+      - title: "LLMSC'25@ISSTA"
         url: '/archive/25/'
   - title: 'Contact'
     url: '/#contact'
