@@ -1,2 +1,37 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+// Simple dropdown styles for navigation
+.site-nav .nav-item.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.site-nav .dropdown-toggle {
+  cursor: pointer;
+}
+
+.site-nav .dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+}
+
+.site-nav .dropdown-item {
+  display: block;
+  padding: 0.3rem 1rem;
+  white-space: nowrap;
+  font-size: 1rem;
+}
+
+.site-nav .dropdown-item:hover {
+  background-color: #f5f5f5;
+}
+
+.site-nav .nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}

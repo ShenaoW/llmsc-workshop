@@ -1,17 +1,17 @@
 main:
-  - title: "Home"
-    url: "/"
+  - title: 'Home'
+    url: '/'
   # - title: "Program"
   #   url: "/#program"
-  - title: "Call for Papers"
-    url: "/#call-for-papers"
-  - title: "Organization"
-    url: "/#organization"
-  - title: "Program Committee"
-    url: "/#pc"
-  # - title: "Archives"
-  #   dropdown:
-  #     - title: "2025"
-  #       url: "/archive/2025"
-  - title: "Contact"
-    url: "/#contact"
+  - title: 'Call for Papers'
+    url: '/#call-for-papers'
+  - title: 'Organization'
+    url: '/#organization'
+  - title: 'Program Committee'
+    url: '/#pc'
+  - title: 'Archives'
+    dropdown:
+      - title: 'LLMSC 2025'
+        url: '/archive/25/'
+  - title: 'Contact'
+    url: '/#contact'

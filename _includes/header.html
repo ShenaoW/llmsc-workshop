@@ -21,9 +21,20 @@
       </label>
 
       <div class="trigger">
-        <!-- 从 navigation.yaml 读取数据 -->
+        <!-- 从 navigation.yml 读取数据，支持下拉菜单 -->
         {% for link in site.data.navigation.main %}
-          <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+          {% if link.dropdown %}
+            <div class="nav-item dropdown">
+              <span class="page-link dropdown-toggle">{{ link.title }}</span>
+              <div class="dropdown-menu">
+                {% for item in link.dropdown %}
+                  <a class="page-link dropdown-item" href="{{ item.url }}">{{ item.title }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          {% else %}
+            <a class="page-link" href="{{ link.url }}">{{ link.title }}</a>
+          {% endif %}
         {% endfor %}
       </div>
     </nav>
