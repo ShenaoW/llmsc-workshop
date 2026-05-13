@@ -76,7 +76,7 @@ We welcome the following two types of submissions:
 
 ```
 \documentclass[sigconf,screen,review,anonymous]{acmart}
-\acmBooktitle{Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26), June 5--9, 2026, Montreal, Canada}
+\acmBooktitle{Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26), July 5--9, 2026, Montreal, Canada}
 ```
 
 - **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc26.hotcrp.com)** by **February 12th, 2026 (AoE)**.
