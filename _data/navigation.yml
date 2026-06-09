@@ -11,7 +11,7 @@ main:
     url: '/#pc'
   - title: 'Archives'
     dropdown:
-      - title: "LLMSC'27@ICSE"
+      - title: "LLMSC'27"
         url: '/archive/27/'
       - title: "LLMSC'26@FSE"
         url: '/'
