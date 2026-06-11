@@ -36,6 +36,81 @@ Here are some valuable resources for understanding the Large Language Model Supp
 
 ---
 
+<span class='anchor' id='program'></span>
+
+#### 🗓️ **Program**
+
+**Sunday, July 5, 2026**  
+**Eastern Time (US & Canada, GMT -04:00)**  
+**Room: MB 9C & 9D**
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th style="width: 18%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Time (GMT -04:00)</th>
+      <th style="width: 53%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
+      <th style="width: 29%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Author</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">14:00-14:15</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Opening</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">14:15-14:30</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Test Before You Deploy: Governing Updates in the LLM Supply Chain</td>
+      <td style="text-align: left; font-weight: bold;">Mohd Sameen Chishti, Damilare Peter Oyinloye, Jingyue Li</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">14:30-14:45</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Complexity-Ranked Iterative Refactoring from Microservices to LLM-based Multi-Agent Systems</td>
+      <td style="text-align: left; font-weight: bold;">Peyman Yazdanian, Yan Liu, Zheng Li</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">14:45-15:00</td>
+      <td style="text-align: left; font-weight: bold; color: green;">LLM-Enabled Open-Source Systems in the Wild: An Empirical Study of Vulnerabilities in GitHub Security Advisories (Remote)</td>
+      <td style="text-align: left; font-weight: bold;">Fariha Tanjim Shifat, Hariswar Baburaj, Ce Zhou, Jaydeb Sarker, Mia Mohammad Imran</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">15:00-15:15</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Bugs in Modern LLM Agent Frameworks: An Empirical Study</td>
+      <td style="text-align: left; font-weight: bold;">Xinxue Zhu, Jiacong Wu, Xiaoyu Zhang, Tianlin Li, Yanzhou Mu, Juan Zhai, Chao Shen, Chunrong Fang, Yang Liu</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">15:15-15:30</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Benchmarking MCP Vulnerability Detection from a Paired Evaluation Perspective</td>
+      <td style="text-align: left; font-weight: bold;">Zhenghao Tang, Zhenyu Zang, Kaifeng Huang</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">15:30-16:00</td>
+      <td colspan="2" style="text-align: center; font-weight: bold;">Coffee Break</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">16:00-16:15</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Engineering Practices in Open-Source Agent Frameworks: A Large-Scale Empirical Study (Remote)</td>
+      <td style="text-align: left; font-weight: bold;">Yibo Zhai, Junjun Si, Yan Wang, Weiguo Lin</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">16:15-16:30</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Evolution but Still Exposed: An Empirical Study of Residual APIs in the ChatGPT Plugin Ecosystem</td>
+      <td style="text-align: left; font-weight: bold;">Ruomai Ren, Chuan Yan, Naipeng Dong, Guangdong Bai</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">16:30-16:45</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Attesting LLM Pipelines: Enforcing Verifiable Training and Release Claims (Remote)</td>
+      <td style="text-align: left; font-weight: bold;">Zhuoran Tan, Jeremy Singer, Christos Anagnostopoulos</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">16:45-17:00</td>
+      <td style="text-align: left; font-weight: bold; color: green;">RightsGen: Automated Generation of User Rights Declaration on Android via LLM-Guided UI Traversal</td>
+      <td style="text-align: left; font-weight: bold;">Chengjun Li, Tao Liu, Yi Wu, Ming Fan</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 <span class='anchor' id='call-for-papers'></span>
 
 #### 📢 **Call for Papers**
