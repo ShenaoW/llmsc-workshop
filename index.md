@@ -32,8 +32,6 @@ The motivation of this workshop is to provide a platform for researchers, practi
 - **Promote responsible practices** to enhance sustainability, transparency, resilience, and security across the LLMSC ecosystem.
 - **Foster collaboration** to bridge gaps between academia, industry, and policy to address the complexities of the LLMSC.
 
-Here are some valuable resources for understanding the Large Language Model Supply Chain, its composition, risks, and security considerations:
-
 ---
 
 <span class='anchor' id='program'></span>

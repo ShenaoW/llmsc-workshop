@@ -17,22 +17,19 @@ layout: home
 
 #### About
 
-Welcome to the <strong>3rd International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! Following the first two editions, we are tentatively planning LLMSC 2027 as a workshop co-located with <strong>ICSE 2027</strong>.
+Welcome to the <strong>3rd International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>!
 
-Large Language Models (LLMs) continue to reshape software engineering and AI practice, but their development and deployment increasingly depend on complex ecosystems of datasets, development toolchains, pre-trained models, serving infrastructure, and downstream integrations. This motivates sustained discussion around the <strong>LLM Supply Chain</strong> as a research and practice topic spanning transparency, governance, quality, resilience, and security.
+Large Language Models (LLMs) are no longer delivered as standalone models. They are increasingly embedded into <strong>agentic software systems</strong> that combine foundation models, datasets, prompts, tools, plugins, MCP servers, skills, harnesses, and multi-agent workflows. These components are developed, shared, installed, composed, updated, and governed by different stakeholders across open-source, industrial, and platform ecosystems. Together, they form an emerging <strong>LLM and agentic supply chain</strong>.
+
+![Workshop Structure](/assets/img/agentsc.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+
+This shift enables increasingly autonomous agentic systems, but also introduces risks that traditional software supply chain analysis cannot fully capture. The emerging risks in this ecosystem may span heterogeneous artifacts, platforms, and lifecycle stages, making the LLM and agentic supply chain highly complex, dynamic, and difficult to analyze. Addressing these challenges requires new methods, tools, benchmarks, and governance frameworks for understanding and securing agentic software systems.
+
+LLMSC aims to bring together researchers, practitioners, and policymakers from software engineering, security, AI, systems, and policy to discuss the analysis, security, reliability, and governance of the LLM and agentic supply chain. We welcome work on ecosystem measurement, dependency and provenance analysis, model and data governance, agent harness engineering, MCP and skill security, vulnerability detection, malicious component analysis, compliance, risk assessment, and responsible deployment practices, with the broader goal of building a more transparent, trustworthy, resilient, and sustainable agentic supply chain ecosystem.
 
 <p><strong>Status:</strong> This page is currently a planning page. LLMSC 2027 is <strong>tentative</strong>, and workshop-specific details such as the final date, paper categories, submission site, and deadlines will be announced after the ICSE 2027 workshop process is finalized.</p>
 
 <p><strong>Journal Invitation:</strong> Selected outstanding papers from the 3rd workshop will be invited to submit revised and substantially extended versions for consideration by <strong>ASE Journal</strong>, subject to the journal's standard peer-review process.</p>
-
-![Workshop Structure](/assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
-
-The motivation of this workshop is to provide a platform for researchers, practitioners, and policymakers to discuss and share ideas on understanding, optimizing, and securing the LLM Supply Chain. We expect LLMSC 2027 to continue focusing on:
-
-- **LLM supply chain ecosystem modeling**, including open-source model and toolchain ecosystems
-- **Best software engineering practices for LLM toolchains** and LLM-integrated applications
-- **Governance, provenance, and compliance** in LLM supply chain ecosystems
-- **Security analysis of supply chain ecosystems**, including vulnerabilities, threats, and real-world incidents
 
 ---
 
