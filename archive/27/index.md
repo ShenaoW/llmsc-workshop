@@ -29,42 +29,38 @@ LLMSC aims to bring together researchers, practitioners, and policymakers from s
 
 <p><strong>Status:</strong> This page is currently a planning page. LLMSC 2027 is <strong>tentative</strong>, and workshop-specific details such as the final date, paper categories, submission site, and deadlines will be announced after the ICSE 2027 workshop process is finalized.</p>
 
+<p><strong>Journal Invitation:</strong> Selected outstanding papers from the 3rd workshop will be invited to submit revised and substantially extended versions for consideration by <strong>ASE Journal</strong>, subject to the journal's standard peer-review process.</p>
+
 ---
 
 <span class='anchor' id='call-for-papers'></span>
 
 #### 📢 **Call for Papers**
 
-LLMSC 2027 focuses on the analysis, security, reliability, and governance of LLM and agentic supply chains. As agentic systems become more autonomous, risks may arise from heterogeneous artifacts and interactions, such as prompts, tools, MCP servers, skills, memory, workflows, and runtime environments. Traditional software supply chain analysis is often insufficient for capturing these cross-component and lifecycle-spanning risks.
-
-The workshop aims to bring together researchers, practitioners, and policymakers from software engineering, security, AI, systems, and policy. We welcome work on ecosystem measurement, dependency and provenance analysis, model and data governance, agent harness engineering, MCP and skill security, vulnerability detection, malicious component analysis, compliance, risk assessment, and responsible deployment practices.
-
-**Journal Invitation:** Selected outstanding papers from LLMSC 2027 will be invited to submit revised and substantially extended versions for consideration by **ASE Journal**, subject to the journal's standard peer-review process.
-
 **Topics of interest include, but are not limited to:**
 
 - **Ecosystem Modeling and Empirical Analysis**
-  Modeling, measurement, and evolution analysis of LLM and agentic software ecosystems
-  Dependency, provenance, and reuse analysis across models, datasets, prompts, tools, agents, and applications
-  Empirical studies of model hubs, app stores, registries, repositories, and open-source LLM ecosystems
+  - Modeling, measurement, and evolution analysis of LLM and agentic software ecosystems.
+  - Dependency, provenance, and reuse analysis across models, datasets, prompts, tools, agents, and applications.
+  - Empirical studies of model hubs, app stores, registries, repositories, and open-source LLM ecosystems.
 - **Toolchains and Agentic Systems**
-  Engineering practices for LLM applications, RAG systems, AI coding tools, and agentic workflows
-  Design, testing, and evaluation of web agents, coding agents, workflow agents, and multi-agent systems
-  Integration of LLMs with APIs, plugins, vector databases, memory stores, enterprise systems, and external tools
+  - Engineering practices for LLM applications, RAG systems, AI coding tools, and agentic workflows.
+  - Design, testing, and evaluation of web agents, coding agents, workflow agents, and multi-agent systems.
+  - Integration of LLMs with APIs, plugins, vector databases, memory stores, enterprise systems, and external tools.
 - **Toolchains, Infrastructure, and Operations**
-  Analysis and benchmarking of LLM frameworks, SDKs, orchestration platforms, and deployment pipelines
-  Testing, monitoring, observability, and reliability assessment of LLM-based and agentic software systems
-  Runtime behavior analysis, action trace auditing, failure diagnosis, scalability, and production readiness
+  - Analysis and benchmarking of LLM frameworks, SDKs, orchestration platforms, and deployment pipelines.
+  - Testing, monitoring, observability, and reliability assessment of LLM-based and agentic software systems.
+  - Runtime behavior analysis, action trace auditing, failure diagnosis, scalability, and production readiness.
 - **Security, Privacy, and Governance**
-  Security and privacy analysis of LLM supply chains, agent frameworks, tools, plugins, protocols, and registries
-  Threat modeling and vulnerability detection for prompt injection, tool poisoning, memory poisoning, unsafe tool use, and data leakage
-  Risk assessment, vulnerability propagation, license compliance, responsible disclosure, standardization, and governance
+  - Security and privacy analysis of LLM supply chains, agent frameworks, tools, plugins, protocols, and registries.
+  - Threat modeling and vulnerability detection for prompt injection, tool poisoning, memory poisoning, unsafe tool use, and data leakage.
+  - Risk assessment, vulnerability propagation, license compliance, responsible disclosure, standardization, and governance.
 
 **Submission Guidelines**
 
 We welcome the following two types of submissions:
 
-- **Position papers (1-4 pages including references):** Well-argued position or work in progress
+- **Position papers (1-4 pages including references):** Well-argued position or work in progress.
 - **Research papers (4-8 pages including references):** Technical research, experience reports, empirical studies, etc.
 
 **Requirements**
@@ -77,9 +73,9 @@ We welcome the following two types of submissions:
 
 **Review Process**
 
-- Submissions will receive at least three reviews under a double-blind process
-- Authors must anonymize submissions, supplementary materials, and metadata
-- Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation
+- Submissions will receive at least three reviews under a double-blind process.
+- Authors must anonymize submissions, supplementary materials, and metadata.
+- Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation.
 
 **Important Dates**
 
