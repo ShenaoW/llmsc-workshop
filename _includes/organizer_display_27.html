@@ -1,11 +1,11 @@
 <article class="post">
     <div class="post-content" id="org">
-        <table style="border-collapse: collapse; border: none;">
+        <table style="border-collapse: collapse; border: none; width: 100%; table-layout: fixed;">
             {% assign organizer_names = "Haoyu Wang|Shuai Wang|Guanhong Tao|Xinyue Shen|Yanjie Zhao" | split: "|" %}
             {% for organizer_name in organizer_names %}
                 {% assign organizer = site.organizers | where: "name", organizer_name | first %}
                 {% if organizer %}
-                <td style="border: none; vertical-align: top;">
+                <td style="border: none; vertical-align: top; width: 20%;">
                     <div class="col-xs-12">
                         <p align="center">
                             {% if organizer.img %}
@@ -15,9 +15,9 @@
                             {% endif %}
                             <br>
                             {% if organizer.webpage %}
-                                <a href="{{ organizer.webpage }}" target="_blank"><b>{{ organizer.name }}</b></a>
+                                <a href="{{ organizer.webpage }}" target="_blank" style="white-space: nowrap;"><b>{{ organizer.name }}</b></a>
                             {% else %}
-                                <b>{{ organizer.name }}</b>
+                                <b style="white-space: nowrap;">{{ organizer.name }}</b>
                             {% endif %}
                             <br>
                             {% if organizer.affil_link %}
