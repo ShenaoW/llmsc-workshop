@@ -8,5 +8,4 @@ role:
 sequence_id: 
 year: 
     - 2026
-    - 2027
 ---

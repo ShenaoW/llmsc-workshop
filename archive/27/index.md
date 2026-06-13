@@ -21,7 +21,7 @@ Welcome to the <strong>3rd International Workshop on Large Language Model Supply
 
 Large Language Models (LLMs) are no longer delivered as standalone models. They are increasingly embedded into <strong>agentic software systems</strong> that combine foundation models, datasets, prompts, tools, plugins, MCP servers, skills, harnesses, and multi-agent workflows. These components are developed, shared, installed, composed, updated, and governed by different stakeholders across open-source, industrial, and platform ecosystems. Together, they form an emerging <strong>LLM and agentic supply chain</strong>.
 
-![Workshop Structure](/assets/img/agentsc.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](/assets/img/agentsc.svg){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
 This shift enables increasingly autonomous agentic systems, but also introduces risks that traditional software supply chain analysis cannot fully capture. The emerging risks in this ecosystem may span heterogeneous artifacts, platforms, and lifecycle stages, making the LLM and agentic supply chain highly complex, dynamic, and difficult to analyze. Addressing these challenges requires new methods, tools, benchmarks, and governance frameworks for understanding and securing agentic software systems.
 
