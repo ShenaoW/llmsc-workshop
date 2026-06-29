@@ -72,7 +72,7 @@ The motivation of this workshop is to provide a platform for researchers, practi
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">15:00-15:15</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Bugs in Modern LLM Agent Frameworks: An Empirical Study</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Bugs in Modern LLM Agent Frameworks: An Empirical Study (Remote)</td>
       <td style="text-align: left; font-weight: bold;">Xinxue Zhu, Jiacong Wu, Xiaoyu Zhang, Tianlin Li, Yanzhou Mu, Juan Zhai, Chao Shen, Chunrong Fang, Yang Liu</td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ The motivation of this workshop is to provide a platform for researchers, practi
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">16:15-16:30</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Evolution but Still Exposed: An Empirical Study of Residual APIs in the ChatGPT Plugin Ecosystem</td>
+      <td style="text-align: left; font-weight: bold; color: green;">Evolution but Still Exposed: An Empirical Study of Residual APIs in the ChatGPT Plugin Ecosystem (Remote)</td>
       <td style="text-align: left; font-weight: bold;">Ruomai Ren, Chuan Yan, Naipeng Dong, Guangdong Bai</td>
     </tr>
     <tr>
