@@ -1,8 +1,6 @@
 main:
   - title: 'Home'
     url: '/'
-  - title: "Program"
-    url: "/#program"
   - title: 'Call for Papers'
     url: '/#call-for-papers'
   - title: 'Organization'
@@ -11,10 +9,8 @@ main:
     url: '/#pc'
   - title: 'Archives'
     dropdown:
-      - title: "LLMSC'27"
-        url: '/archive/27/'
       - title: "LLMSC'26@FSE"
-        url: '/'
+        url: '/archive/26/'
       - title: "LLMSC'25@ISSTA"
         url: '/archive/25/'
   - title: 'Contact'

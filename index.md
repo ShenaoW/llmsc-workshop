@@ -1,111 +1,35 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 permalink: /
 title: Home
 layout: home
 ---
 
 <p class="workshop-title">
-  The 2<sup>nd</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2026)
+  The 3<sup>rd</sup> International Workshop on Large Language Model Supply Chain Analysis <br> (LLMSC 2027)
 </p>
 <p class="workshop-subtitle">
-  July 5, 2026, Montreal, Canada, Co-located with 
-  <a href="" target="_blank"><strong>FSE'26</strong></a>
+  Co-located with
+  <a href="https://conf.researchr.org/home/icse-2027" target="_blank"><strong>ICSE'27</strong></a><br>
+  Dublin, Ireland · Date to be determined
 </p>
 
 ---
 
 #### About
 
-Welcome to the <strong>2nd International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>! This workshop brings together researchers, practitioners, and policymakers to discuss the challenges and opportunities in understanding, optimizing, and securing the LLM Supply Chain.
+Welcome to the <strong>3rd International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</strong>!
 
-Large Language Models (LLMs) have ushered in a new era of artificial intelligence (AI), redefining what is possible in domains such as natural language understanding, text generation, and autonomous systems. However, the development and deployment of LLMs are becoming increasingly complex, involving diverse components such as massive datasets, development toolchains, pre-trained foundation models, and specialized deployment environments. This intricate process gives rise to the concept of the <strong>LLM Supply Chain</strong> — a dynamic and interconnected ecosystem of stakeholders, dependencies, and infrastructure critical to the lifecycle of LLMs.
+Large Language Models (LLMs) are no longer delivered as standalone models. They are increasingly embedded into <strong>agentic software systems</strong> that combine foundation models, datasets, prompts, tools, plugins, MCP servers, skills, harnesses, and multi-agent workflows. These components are developed, shared, installed, composed, updated, and governed by different stakeholders across open-source, industrial, and platform ecosystems. Together, they form an emerging <strong>LLM and agentic supply chain</strong>.
 
-![Workshop Structure](assets/img/structure.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](/assets/img/agentsc.svg){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
-The motivation of this workshop is to provide a platform for researchers, practitioners, and policymakers to discuss and share their ideas on understanding, optimizing, and securing the LLM Supply Chain. This workshop aims to achieve several goals:
+This shift enables increasingly autonomous agentic systems, but also introduces risks that traditional software supply chain analysis cannot fully capture. The emerging risks in this ecosystem may span heterogeneous artifacts, platforms, and lifecycle stages, making the LLM and agentic supply chain highly complex, dynamic, and difficult to analyze. Addressing these challenges requires new methods, tools, benchmarks, and governance frameworks for understanding and securing agentic software systems.
 
-- **Facilitate knowledge exchange** to share ideas and preliminary results on understanding, optimizing, and securing the LLMSC.
-- **Identify open challenges and opportunities** to advance future research and practice in the LLMSC.
-- **Promote responsible practices** to enhance sustainability, transparency, resilience, and security across the LLMSC ecosystem.
-- **Foster collaboration** to bridge gaps between academia, industry, and policy to address the complexities of the LLMSC.
+LLMSC aims to bring together researchers, practitioners, and policymakers from software engineering, security, AI, systems, and policy to discuss the analysis, security, reliability, and governance of the LLM and agentic supply chain. We welcome work on ecosystem measurement, dependency and provenance analysis, model and data governance, agent harness engineering, MCP and skill security, vulnerability detection, malicious component analysis, compliance, risk assessment, and responsible deployment practices, with the broader goal of building a more transparent, trustworthy, resilient, and sustainable agentic supply chain ecosystem.
 
----
+<p><strong>Status:</strong> LLMSC 2027 will be co-located with <strong>ICSE 2027</strong>. The workshop date will be announced once confirmed.</p>
 
-<span class='anchor' id='program'></span>
-
-#### 🗓️ **Program**
-
-**Sunday, July 5, 2026**  
-**Eastern Time (US & Canada, GMT -04:00)**  
-**Room: MB 9C & 9D**
-
-<table style="width: 100%; border-collapse: collapse; text-align: left;">
-  <thead>
-    <tr>
-      <th style="width: 18%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Time (GMT -04:00)</th>
-      <th style="width: 53%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Title</th>
-      <th style="width: 29%; font-weight: bold; border-bottom: 2px solid #000; text-align: center;">Author</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">14:00-14:15</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Opening</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">14:15-14:30</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Test Before You Deploy: Governing Updates in the LLM Supply Chain</td>
-      <td style="text-align: left; font-weight: bold;">Mohd Sameen Chishti, Damilare Peter Oyinloye, Jingyue Li</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">14:30-14:45</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Complexity-Ranked Iterative Refactoring from Microservices to LLM-based Multi-Agent Systems</td>
-      <td style="text-align: left; font-weight: bold;">Peyman Yazdanian, Yan Liu, Zheng Li</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">14:45-15:00</td>
-      <td style="text-align: left; font-weight: bold; color: green;">LLM-Enabled Open-Source Systems in the Wild: An Empirical Study of Vulnerabilities in GitHub Security Advisories (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Fariha Tanjim Shifat, Hariswar Baburaj, Ce Zhou, Jaydeb Sarker, Mia Mohammad Imran</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">15:00-15:15</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Bugs in Modern LLM Agent Frameworks: An Empirical Study (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Xinxue Zhu, Jiacong Wu, Xiaoyu Zhang, Tianlin Li, Yanzhou Mu, Juan Zhai, Chao Shen, Chunrong Fang, Yang Liu</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">15:15-15:30</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Benchmarking MCP Vulnerability Detection from a Paired Evaluation Perspective (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Zhenghao Tang, Zhenyu Zang, Kaifeng Huang</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">15:30-16:00</td>
-      <td colspan="2" style="text-align: center; font-weight: bold;">Coffee Break</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16:00-16:15</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Engineering Practices in Open-Source Agent Frameworks: A Large-Scale Empirical Study (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Yibo Zhai, Junjun Si, Yan Wang, Weiguo Lin</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16:15-16:30</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Evolution but Still Exposed: An Empirical Study of Residual APIs in the ChatGPT Plugin Ecosystem (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Ruomai Ren, Chuan Yan, Naipeng Dong, Guangdong Bai</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16:30-16:45</td>
-      <td style="text-align: left; font-weight: bold; color: green;">Attesting LLM Pipelines: Enforcing Verifiable Training and Release Claims (Remote)</td>
-      <td style="text-align: left; font-weight: bold;">Zhuoran Tan, Jeremy Singer, Christos Anagnostopoulos</td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16:45-17:00</td>
-      <td style="text-align: left; font-weight: bold; color: green;">RightsGen: Automated Generation of User Rights Declaration on Android via LLM-Guided UI Traversal</td>
-      <td style="text-align: left; font-weight: bold;">Chengjun Li, Tao Liu, Yi Wu, Ming Fan</td>
-    </tr>
-  </tbody>
-</table>
+<p><strong>Journal Invitation:</strong> Selected outstanding papers from the 3rd workshop will be invited to submit revised and substantially extended versions for consideration by <strong>ASE Journal</strong>, subject to the journal's standard peer-review process.</p>
 
 ---
 
@@ -113,62 +37,52 @@ The motivation of this workshop is to provide a platform for researchers, practi
 
 #### 📢 **Call for Papers**
 
-We invite submissions on topics including but not limited to:
+**Topics of interest include, but are not limited to:**
 
-- **LLM Supply Chain Ecosystem Modeling**
-  - Modeling and analysis of open-source model or LLM toolchain ecosystems
-  - Ecosystem evolution analysis over time
+- **Ecosystem Modeling and Empirical Analysis**
+  - Modeling, measurement, and evolution analysis of LLM and agentic software ecosystems.
+  - Dependency, provenance, and reuse analysis across models, datasets, prompts, tools, agents, and applications.
+  - Empirical studies of model hubs, app stores, registries, repositories, and open-source LLM ecosystems.
+- **Toolchains and Agentic Systems**
+  - Engineering practices for LLM applications, RAG systems, AI coding tools, and agentic workflows.
+  - Design, testing, and evaluation of web agents, coding agents, workflow agents, and multi-agent systems.
+  - Integration of LLMs with APIs, plugins, vector databases, memory stores, enterprise systems, and external tools.
+- **Toolchains, Infrastructure, and Operations**
+  - Analysis and benchmarking of LLM frameworks, SDKs, orchestration platforms, and deployment pipelines.
+  - Testing, monitoring, observability, and reliability assessment of LLM-based and agentic software systems.
+  - Runtime behavior analysis, action trace auditing, failure diagnosis, scalability, and production readiness.
+- **Security, Privacy, and Governance**
+  - Security and privacy analysis of LLM supply chains, agent frameworks, tools, plugins, protocols, and registries.
+  - Threat modeling and vulnerability detection for prompt injection, tool poisoning, memory poisoning, unsafe tool use, and data leakage.
+  - Risk assessment, vulnerability propagation, license compliance, responsible disclosure, standardization, and governance.
 
-- **Best SE Practice for LLM Toolchain**
-  - Horizontal comparison of LLM development tools
-  - Developer-centric perspectives on LLM toolchains
-  - Bug detection and repair for LLM development tools
-  - Best practices for developing LLM-integrated applications
-
-- **Governance of LLM Supply Chain Ecosystems**
-  - Model provenance and license compliance
-  - Standardization in LLM supply chain ecosystems
-
-- **Security Analysis of Supply Chain Ecosystems**
-  - Vulnerability management in emerging toolchains
-  - Threat analysis in LLM-integrated applications
-  - Case studies and real-world experiences with LLM infrastructure
-  - New security paradigms for LLM systems
-
-**Submission Guidelines**:
+**Submission Guidelines**
 
 We welcome the following two types of submissions:
 
-- **Position Papers (1-4 pages including references)**: Well-argued position or work in progress.
-- **Research Papers (4-8 pages including references)**: Technical research, experience reports, empirical studies, etc.
+- **Position papers (1-4 pages including references):** Well-argued position or work in progress.
+- **Research papers (4-8 pages including references):** Technical research, experience reports, empirical studies, etc.
 
-**Requirements**:
+**Requirements**
 
-- **Originality:** All submissions must be original and not under review elsewhere.
-- **Submission Format:** All submissions must be in English and in PDF format. Papers must not exceed the page limits that are listed for each call for papers. The ACM styles have changed recently, and all authors should use the official “ACM Primary Article Template”, as can be obtained from the **[ACM Proceedings Template](https://www.acm.org/publications/proceedings-template)** page. For Microsoft Word users, please still use the “Interim Template” and not the New Workflow for ACM Publications. This should result in a **two-columns format**. For LaTeX users, please refer to the `sample-sigconf.tex` example file in the template available on the ACM Proceedings Template page. To that end, each submission requires using the following booktitle:
+- **Originality:** All submissions must be original and not under review elsewhere. Workshop organizers and their current directly supervised students may not submit refereed papers to the workshop.
+- **Submission format:** Submissions must be written in English and submitted in PDF format. Papers must not exceed the page limits listed above. Papers must follow the official IEEE conference proceedings format. Authors should use the IEEE Conference Proceedings Formatting Guidelines. LaTeX users should use `\documentclass[10pt,conference]{IEEEtran}`.
+- **Submission site:** TBD
+- **Publication date:** The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
+- **Notification:** By submitting to LLMSC 2027, authors acknowledge that they conform to the authorship policy of IEEE, the submission policy of IEEE, the authorship policy of ACM, and the ACM Publications Policy on Research Involving Human Participants and Subjects. Other detailed submission policies and formatting guidelines are aligned with the ICSE 2027 Research Track submission process.
 
-```
-\documentclass[sigconf,screen,review,anonymous]{acmart}
-\acmBooktitle{Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26), July 5--9, 2026, Montreal, Canada}
-```
+**Review Process**
 
-- **Submission Site:** Papers must be submitted via the **[submission site](https://llmsc26.hotcrp.com)** by **February 12th, 2026 (AoE)**.
-- **Publication Date:** The official publication date is the date the proceedings are made available in the ACM Digital Library. This date may be up to **two weeks prior to the first day of the FSE conference**. The official publication date affects the **deadline for any patent filings** related to published work.
-- **Notification:** As a published ACM author, you and your co-authors are subject to all **[ACM Publications Policies](https://www.acm.org/publications/policies/toc)**, including ACM’s new **[Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects)**.
+- Submissions will receive at least three reviews under a double-blind process.
+- Authors must anonymize submissions, supplementary materials, and metadata.
+- Evaluation criteria include originality, relevance, technical soundness, and clarity of presentation.
 
-**Review Process**:
+**Important Dates**
 
-- Submissions will be **peer-reviewed by at least three members** of the program committee.
-- Evaluation criteria include **originality, relevance, technical soundness, and clarity of presentation**.
-
-**Important Dates**:
-
-All dates are 23:59:59 AoE (UTC-12h):
-
-- **Paper Submission Deadline**: February 20th, 2026
-- **Notification of Acceptance**: March 19th, 2026
-- **Camera-Ready Papers Due**: April 2nd, 2026
-- **Workshop Data:** July 5, 2026
+- **Paper submission deadline:** November 27, 2026
+- **Notification of acceptance:** December 11, 2026
+- **Camera-ready papers due:** January 29, 2027
+- **Workshop date:** To be determined by ICSE 2027
 
 ---
 
@@ -178,12 +92,11 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 **Organizing Committee**
 
-{% include organizer_display_26.html %}
+{% include organizer_display_27.html %}
 
 **Publicity & Web Chair**
 
 - [**Shenao Wang**](https://shenaow.github.io/), Huazhong University of Science and Technology
-
 - [**Xinyi Hou**](https://xinyi-hou.github.io/), Huazhong University of Science and Technology
 
 ---
@@ -192,17 +105,9 @@ All dates are 23:59:59 AoE (UTC-12h):
 
 #### 👩‍💻👨‍💻 **Program Committee**
 
-- [**Chengwei Liu**](https://lcwj3.github.io/), Nanyang Technological University
-- [**Chuan Yan**](https://yanchuan390.github.io/), University of Queensland
-- [**Guozhu Meng**](https://impillar.github.io/), Institute of Information Engineering, Chinese Academy of Sciences
-- [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
-- [**Lingyun Ying**](https://scholar.google.com/citations?user=eJXxo-gAAAAJ&hl=zh-CN), QI-ANXIN Technology Research Institute
-- [**Marius Fleischer**](https://www.linkedin.com/in/marius-fleischer/), NVIDIA
-- [**Nusrat Zahan**](https://www.nzahan.net/), North Carolina State University
-- [**Xiaofei Xie**](https://xiaofeixie.bitbucket.io/), Singapore Management University
-- [**Xiaoyu Zhang**](https://shiningrain.github.io/), Nanyang Technological University
-- [**Yuede Ji**](https://yuede.github.io/), University of Texas at Arlington
-- [**Zheng Wang**](https://infocondb.org/presenter/zheng-wang), Tencent Security Xuanwu Lab
+Program committee information for LLMSC 2027 is <strong>TBD</strong>.
+
+---
 
 <span class='anchor' id='contact'></span>
 
