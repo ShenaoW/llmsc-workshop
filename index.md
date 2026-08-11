@@ -10,7 +10,7 @@ layout: home
 <p class="workshop-subtitle">
   Co-located with
   <a href="https://conf.researchr.org/home/icse-2027" target="_blank"><strong>ICSE'27</strong></a><br>
-  Dublin, Ireland · Date to be determined
+  Dublin, Ireland · Sun 25th April – Sat 1st May
 </p>
 
 ---
