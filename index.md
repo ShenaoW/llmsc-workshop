@@ -10,7 +10,7 @@ layout: home
 <p class="workshop-subtitle">
   Co-located with
   <a href="https://conf.researchr.org/home/icse-2027" target="_blank"><strong>ICSE'27</strong></a><br>
-  Dublin, Ireland · Sun 25th April – Sat 1st May
+  Tuesday, 27 April 2027 · Dublin, Ireland
 </p>
 
 ---
@@ -21,13 +21,13 @@ Welcome to the <strong>3rd International Workshop on Large Language Model Supply
 
 Large Language Models (LLMs) are no longer delivered as standalone models. They are increasingly embedded into <strong>agentic software systems</strong> that combine foundation models, datasets, prompts, tools, plugins, MCP servers, skills, harnesses, and multi-agent workflows. These components are developed, shared, installed, composed, updated, and governed by different stakeholders across open-source, industrial, and platform ecosystems. Together, they form an emerging <strong>LLM and agentic supply chain</strong>.
 
-![Workshop Structure](/assets/img/agentsc.svg){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
+![Workshop Structure](/assets/img/agentsc.png){: style="width: 90%; height: auto; display: block; margin: 0 auto;" }
 
 This shift enables increasingly autonomous agentic systems, but also introduces risks that traditional software supply chain analysis cannot fully capture. The emerging risks in this ecosystem may span heterogeneous artifacts, platforms, and lifecycle stages, making the LLM and agentic supply chain highly complex, dynamic, and difficult to analyze. Addressing these challenges requires new methods, tools, benchmarks, and governance frameworks for understanding and securing agentic software systems.
 
 LLMSC aims to bring together researchers, practitioners, and policymakers from software engineering, security, AI, systems, and policy to discuss the analysis, security, reliability, and governance of the LLM and agentic supply chain. We welcome work on ecosystem measurement, dependency and provenance analysis, model and data governance, agent harness engineering, MCP and skill security, vulnerability detection, malicious component analysis, compliance, risk assessment, and responsible deployment practices, with the broader goal of building a more transparent, trustworthy, resilient, and sustainable agentic supply chain ecosystem.
 
-<p><strong>Status:</strong> LLMSC 2027 will be co-located with <strong>ICSE 2027</strong>. The workshop date will be announced once confirmed.</p>
+<p><strong>Status:</strong> LLMSC 2027 will be co-located with <strong>ICSE 2027</strong> on <strong>Tuesday, 27 April 2027</strong> in Dublin, Ireland.</p>
 
 <p><strong>Journal Invitation:</strong> Selected outstanding papers from the 3rd workshop will be invited to submit revised and substantially extended versions for consideration by <strong>ASE Journal</strong>, subject to the journal's standard peer-review process.</p>
 
@@ -67,7 +67,7 @@ We welcome the following two types of submissions:
 
 - **Originality:** All submissions must be original and not under review elsewhere. Workshop organizers and their current directly supervised students may not submit refereed papers to the workshop.
 - **Submission format:** Submissions must be written in English and submitted in PDF format. Papers must not exceed the page limits listed above. Papers must follow the official IEEE conference proceedings format. Authors should use the IEEE Conference Proceedings Formatting Guidelines. LaTeX users should use `\documentclass[10pt,conference]{IEEEtran}`.
-- **Submission site:** TBD
+- **Submission site:** Papers must be submitted via the **[submission site](https://icse2027-llmsc.hotcrp.com)**.
 - **Publication date:** The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
 - **Notification:** By submitting to LLMSC 2027, authors acknowledge that they conform to the authorship policy of IEEE, the submission policy of IEEE, the authorship policy of ACM, and the ACM Publications Policy on Research Involving Human Participants and Subjects. Other detailed submission policies and formatting guidelines are aligned with the ICSE 2027 Research Track submission process.
 
@@ -82,7 +82,7 @@ We welcome the following two types of submissions:
 - **Paper submission deadline:** November 27, 2026
 - **Notification of acceptance:** December 11, 2026
 - **Camera-ready papers due:** January 29, 2027
-- **Workshop date:** To be determined by ICSE 2027
+- **Workshop date:** Tuesday, 27 April 2027
 
 ---
 
