@@ -69,6 +69,7 @@ We welcome the following two types of submissions:
 - **Submission format:** Submissions must be written in English and submitted in PDF format. Papers must not exceed the page limits listed above. Papers must follow the official IEEE conference proceedings format. Authors should use the IEEE Conference Proceedings Formatting Guidelines. LaTeX users should use `\documentclass[10pt,conference]{IEEEtran}`.
 - **Submission site:** Papers must be submitted via the **[submission site](https://icse2027-llmsc.hotcrp.com)**.
 - **Publication date:** The official publication date of the workshop proceedings is the date the proceedings are made available by IEEE. This date may be up to two weeks prior to the first day of ICSE 2027. The official publication date affects the deadline for any patent filings related to published work.
+- **Registration, presentation, and proceedings eligibility:** To be included in the Workshop Proceedings, each accepted paper must be presented at the workshop, and at least one of its authors must register for the workshop. If no author has registered for an accepted paper within two weeks after the Early Registration Deadline, ICSE 2027 reserves the right to remove the paper from the Workshop Proceedings. If no author or designated presenter attends the workshop to present the paper, the paper will be considered a no-show.
 - **Notification:** By submitting to LLMSC 2027, authors acknowledge that they conform to the authorship policy of IEEE, the submission policy of IEEE, the authorship policy of ACM, and the ACM Publications Policy on Research Involving Human Participants and Subjects. Other detailed submission policies and formatting guidelines are aligned with the ICSE 2027 Research Track submission process.
 
 **Review Process**
@@ -79,7 +80,7 @@ We welcome the following two types of submissions:
 
 **Important Dates**
 
-- **Paper submission deadline:** November 27, 2026
+- **Paper submission deadline:** November 13, 2026
 - **Notification of acceptance:** December 11, 2026
 - **Camera-ready papers due:** January 29, 2027
 - **Workshop date:** Tuesday, 27 April 2027
