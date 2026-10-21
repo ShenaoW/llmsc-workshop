@@ -26,6 +26,10 @@
                                 {{ organizer.affil }}
                             {% endif %}
                             <br>
+                            {% if organizer.email %}
+                                <a href="mailto:{{ organizer.email }}">{{ organizer.email }}</a>
+                                <br>
+                            {% endif %}
                             {% if organizer.role %}
                                 <i>{{ organizer.role }}</i>
                             {% endif %}

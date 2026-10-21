@@ -1,6 +1,7 @@
 ---
 name: Haoyu Wang
 webpage: https://howiepku.github.io/
+email: haoyuwang@hust.edu.cn
 affil: Huazhong University of Science and Technology
 affil_link: 
 img: haoyuwang.jpg
