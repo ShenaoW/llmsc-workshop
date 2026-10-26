@@ -108,6 +108,8 @@ We welcome the following two types of submissions:
 
 - [**Amin Milani Fard**](https://aminmf.github.io/index.html), New York Institute of Technology
 - [**Congying Xu**](https://congyingxu.github.io), Hong Kong University of Science and Technology
+- [**Vinitha Reddy Gankidi**](https://www.linkedin.com/in/vinitha-reddy-gankidi/), Apple
+- [**Xiaoyu Zhang**](https://shiningrain.github.io/), Hong Kong University of Science and Technology
 - [**Yuede (YJ) Ji**](https://yuede.github.io/), University of Texas at Arlington
 
 ---
