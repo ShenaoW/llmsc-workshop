@@ -106,8 +106,9 @@ We welcome the following two types of submissions:
 
 #### 👩‍💻👨‍💻 **Program Committee**
 
-- [**Amin Milani Fard**](https://aminmf.github.io/index.html), New York Institute of Technology, [amilanif@nyit.edu](mailto:amilanif@nyit.edu)
-- [**Congying Xu**](https://congyingxu.github.io), Hong Kong University of Science and Technology, [congying.xu@connect.ust.hk](mailto:congying.xu@connect.ust.hk)
+- [**Amin Milani Fard**](https://aminmf.github.io/index.html), New York Institute of Technology
+- [**Congying Xu**](https://congyingxu.github.io), Hong Kong University of Science and Technology
+- [**Yuede (YJ) Ji**](https://yuede.github.io/), University of Texas at Arlington
 
 ---
 
