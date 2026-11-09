@@ -155,6 +155,7 @@ All submission deadlines are **Anywhere on Earth (AoE)**.
 - [**Chengwei Liu**](https://lcwj3.github.io/), Nankai University
 - [**Congying Xu**](https://congyingxu.github.io), Hong Kong University of Science and Technology
 - [**Jiangrong Wu**](https://scholar.google.com/citations?user=GJILRJsAAAAJ&hl=en&oi=ao), Hong Kong University of Science and Technology
+- [**Kaifeng Huang**](https://kaifeng-h.github.io/), Tongji University
 - [**Saurav Majumder**](https://www.simplysrv.me/), Microsoft
 - [**Vinitha Reddy Gankidi**](https://www.linkedin.com/in/vinitha-reddy-gankidi/), Apple
 - [**Xiaoyu Zhang**](https://shiningrain.github.io/), Hong Kong University of Science and Technology
