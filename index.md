@@ -164,7 +164,7 @@ All submission deadlines are **Anywhere on Earth (AoE)**.
 - [**Yacong Gu**](https://scholar.google.com/citations?user=tMpuqgYAAAAJ&hl=en), Tsinghua University
 - [**Yuede (YJ) Ji**](https://yuede.github.io/), University of Texas at Arlington
 - [**Yuhong Nan**](https://nanyuhong.github.io/), Sun Yat-sen University
-- [**Zheng Wang**](https://scholar.google.com/citations?user=RQcU6xYAAAAJ), Tencent Security Xuanwu Lab
+- [**Zheng Wang**](https://scholar.google.com/citations?user=RQcU6xYAAAAJ), Independent Researcher
 
 ---
 
