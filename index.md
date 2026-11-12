@@ -152,6 +152,7 @@ All submission deadlines are **Anywhere on Earth (AoE)**.
 
 - [**Amin Milani Fard**](https://aminmf.github.io/index.html), New York Institute of Technology
 - [**Bonan Ruan**](https://profile.wohin.me/), National University of Singapore
+- [**Chao Hu**](https://scholar.google.com/citations?user=GNq2enEAAAAJ), Tencent
 - [**Chengwei Liu**](https://lcwj3.github.io/), Nankai University
 - [**Congying Xu**](https://congyingxu.github.io), Hong Kong University of Science and Technology
 - [**Jiangrong Wu**](https://scholar.google.com/citations?user=GJILRJsAAAAJ&hl=en&oi=ao), Hong Kong University of Science and Technology
@@ -163,6 +164,7 @@ All submission deadlines are **Anywhere on Earth (AoE)**.
 - [**Yacong Gu**](https://scholar.google.com/citations?user=tMpuqgYAAAAJ&hl=en), Tsinghua University
 - [**Yuede (YJ) Ji**](https://yuede.github.io/), University of Texas at Arlington
 - [**Yuhong Nan**](https://nanyuhong.github.io/), Sun Yat-sen University
+- [**Zheng Wang**](https://scholar.google.com/citations?user=RQcU6xYAAAAJ), Tencent Security Xuanwu Lab
 
 ---
 
