@@ -124,7 +124,7 @@ Each submission must include:
 
 All submission deadlines are **Anywhere on Earth (AoE)**.
 
-- **⏰ Paper Submission Deadline:** November 13, 2026
+- **⏰ Paper Submission Deadline:** November 21, 2026 (extended)
 - **📬 Notification of Acceptance:** December 11, 2026
 - **📄 Camera-ready:** January 29, 2027
 - **🎤 Workshop Date:** Tuesday, 27 April 2027
